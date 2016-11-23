@@ -26,21 +26,36 @@ public class RbMapReduce {
     Text, /* Output key Type */
     Text> /* Output value Type */
     {
+        private static final String SEPERATOR = "\t";
+
         // Map function
         public void map(LongWritable key, Text value, OutputCollector<Text, Text> output, Reporter reporter)
                 throws IOException
         {
             if (value != null) {
-                final String line = value.toString();
-                final ArrayList<String> messageContentKeysList = RbMapReduce.getMessageContentKeysList();
-                for (String messageContentKey : messageContentKeysList) {
-                    if (line.toLowerCase().contains(messageContentKey.toLowerCase())) {
-                        output.collect(new Text(messageContentKey), new Text(line));
-                        break;
-                    }
-                }
+                 String line = value.toString();
+                 dataTransformation(output, line);
+                 //dataFilteration(output, line);
             }
 
+        }
+
+        private void dataFilteration(OutputCollector<Text, Text> output, String line) throws IOException {
+            final ArrayList<String> messageContentKeysList = RbMapReduce.getCardMessageContentKeysList();
+            for (String messageContentKey : messageContentKeysList) {
+                if (line.toLowerCase().contains(messageContentKey.toLowerCase())) {
+                     dataTransformation(output, line);
+                    break;
+                }
+            }
+        }
+
+        private void dataTransformation(OutputCollector<Text, Text> output, String line) throws IOException {
+            if(line.toLowerCase().contains("https://")){
+                line = line.substring(0, line.indexOf("https://"));
+            }
+            final String[] parts = line.split(SEPERATOR);
+            output.collect(new Text(parts[0]), new Text(parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]));
         }
     }
 
@@ -78,11 +93,36 @@ public class RbMapReduce {
         JobClient.runJob(conf);
     }
 
-    private static ArrayList<String> getMessageContentKeysList() {
+    
+    private static ArrayList<String> getCardMessageContentKeysList() {
         ArrayList<String> keyList = new ArrayList<String>();
-        keyList.add("card ");
-        keyList.add("bankpas  ");
-        keyList.add(" kaarten ");
+        keyList.add("Kaart");
+        keyList.add("pas");
+        keyList.add("card");
+        return keyList;
+    }
+    
+    private static ArrayList<String> getMobileMessageContentKeysList() {
+        ArrayList<String> keyList = new ArrayList<String>();
+        keyList.add("Mobiel");
+        keyList.add("mobile banking");
+        keyList.add("app");
+        return keyList;
+    }
+    
+    private static ArrayList<String> getInterBankingMessageContentKeysList() {
+        ArrayList<String> keyList = new ArrayList<String>();
+        keyList.add("internet bankieren");
+        keyList.add("internet banking");
+        keyList.add("internetbankieren");
+        return keyList;
+    }
+    
+    private static ArrayList<String> getSavingsMessageContentKeysList() {
+        ArrayList<String> keyList = new ArrayList<String>();
+        keyList.add("sparen");
+        keyList.add("savings");
+        keyList.add("spaarrekening");
         return keyList;
     }
 
