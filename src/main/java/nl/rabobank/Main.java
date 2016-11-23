@@ -14,17 +14,22 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Scanner;
 
+import org.apache.hadoop.io.Text;
+
 public class Main {
 
     private static Properties props = new Properties();
+    
+    private static final String SEPERATOR = "\t";
 
     public static void main(String[] args) {
         try {
             InputStream in = Main.class.getClass().getResourceAsStream("/props/Keys.properties");
             props.load(in);
             // filterDataWithkey(props.getProperty("keys"));
-             removeDuplicatesAndFormat();
+             //removeDuplicatesAndFormat();
             //cleanText();
+            mapReduceLogic();
             in.close();
         } catch (IOException ioException) {
         }
@@ -69,11 +74,11 @@ public class Main {
         final DateFormat format = new SimpleDateFormat("EEE");
         boolean isDate = true;
         
-        //String bankName = "Rabobank";
-       // String toBeFilteredName = "rabo";
+        String bankName = "Rabobank";
+        String toBeFilteredName = "rabo";
         
-        String bankName = "ING";
-        String toBeFilteredName = "ING Nederland";
+       // String bankName = "ING";
+      //  String toBeFilteredName = "ING Nederland";
         
         // String bankName = "Abn Amro";
        //  String toBeFilteredName = "ABN AMRO";
@@ -97,7 +102,8 @@ public class Main {
                 }
                 if (isDate && parts.length > 2) {
                     if (!timeStamp.contains(parts[0] + "\t" + parts[1])) {
-                        f.write(bankName + "\t" + parts[0] + "\t" + parts[1] + "\t" + parts[parts.length - 1]);
+                        f.write(bankName + "\t" + parts[0] + "\t" + parts[1] + "\t" + parts[parts.length - 1]+System.lineSeparator());
+                       // f.write(System.lineSeparator());
                     } else {
                         System.out.println(currentLine);
                     }
@@ -125,6 +131,40 @@ public class Main {
         System.out.println(s);
         if (s.contains("https://")) {
             System.out.println(s.substring(0, s.indexOf("https://")));
+        }
+    }
+    
+    private static void mapReduceLogic(){
+        final URL url = Main.class.getClass().getResource("/uniqueRabobankTweets.txt");
+        FileWriter f = null;
+        try {
+            Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\r]");
+            f = new FileWriter("C://temp//mapReduce.txt");
+            while (input.hasNext()) {
+                String line = input.next();
+                if(line.toLowerCase().contains("https://")){
+                    line = line.substring(0, line.indexOf("https://"));
+                }
+                final String[] parts = line.split(SEPERATOR);
+               // System.out.println(parts[0] + SEPERATOR + parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]);
+                if(parts.length > 3){
+                    f.write(parts[0] + SEPERATOR + parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]);
+                    f.write(System.lineSeparator());
+                }
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (f != null) {
+                    f.flush();
+                    f.close();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 

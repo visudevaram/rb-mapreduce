@@ -55,7 +55,9 @@ public class RbMapReduce {
                 line = line.substring(0, line.indexOf("https://"));
             }
             final String[] parts = line.split(SEPERATOR);
-            output.collect(new Text(parts[0]), new Text(parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]));
+            if(parts.length > 3){
+                output.collect(new Text(parts[0]), new Text(parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]));
+            }
         }
     }
 
