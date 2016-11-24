@@ -27,9 +27,9 @@ public class Main {
             InputStream in = Main.class.getClass().getResourceAsStream("/props/Keys.properties");
             props.load(in);
             // filterDataWithkey(props.getProperty("keys"));
-             //removeDuplicatesAndFormat();
+             removeDuplicatesAndFormat();
             //cleanText();
-            mapReduceLogic();
+            //mapReduceLogic();
             in.close();
         } catch (IOException ioException) {
         }
@@ -89,10 +89,12 @@ public class Main {
             f = new FileWriter("C://temp//unique"+bankName+"Tweets.txt");
             while (input.hasNext()) {
                 String currentLine = input.next();
+                System.out.println(currentLine);
+               
                 String[] parts = currentLine.split("\t");
                
                 if (parts.length > 2 && parts[1].toLowerCase().contains(toBeFilteredName.toLowerCase())) {
-                    continue;
+                    continue; // if the tweet is by bank employee, then skip it.
                 }
                 try {
                     format.parse(parts[0]);
@@ -101,8 +103,14 @@ public class Main {
                     isDate = false;
                 }
                 if (isDate && parts.length > 2) {
+                    
+                    if (!parts[parts.length - 1].toLowerCase().contains(bankName.toLowerCase())) {
+                        continue; // if the tweet does not have bank name, then skip it.
+                    }
+                    
+                    
                     if (!timeStamp.contains(parts[0] + "\t" + parts[1])) {
-                        f.write(bankName + "\t" + parts[0] + "\t" + parts[1] + "\t" + parts[parts.length - 1]+System.lineSeparator());
+                        f.write(bankName + "\t" + parts[0] + "\t" + parts[1] + "\t" + parts[parts.length - 1]);
                        // f.write(System.lineSeparator());
                     } else {
                         System.out.println(currentLine);

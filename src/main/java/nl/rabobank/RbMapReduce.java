@@ -43,10 +43,13 @@ public class RbMapReduce {
         private void dataFilteration(OutputCollector<Text, Text> output, String line) throws IOException {
             final ArrayList<String> messageContentKeysList = RbMapReduce.getCardMessageContentKeysList();
             for (String messageContentKey : messageContentKeysList) {
-                if (line.toLowerCase().contains(messageContentKey.toLowerCase())) {
-                     dataTransformation(output, line);
-                    break;
-                }
+                final String[] parts = line.split(SEPERATOR);
+                if(parts.length > 3){
+                    if (parts[3].toLowerCase().contains(messageContentKey.toLowerCase())) {
+                         dataTransformation(output, line);
+                        break;
+                    }
+            }
             }
         }
 
@@ -99,7 +102,8 @@ public class RbMapReduce {
     private static ArrayList<String> getCardMessageContentKeysList() {
         ArrayList<String> keyList = new ArrayList<String>();
         keyList.add("Kaart");
-        keyList.add("pas");
+        keyList.add("pinpas");
+        keyList.add("bankpas");
         keyList.add("card");
         return keyList;
     }
@@ -108,7 +112,7 @@ public class RbMapReduce {
         ArrayList<String> keyList = new ArrayList<String>();
         keyList.add("Mobiel");
         keyList.add("mobile banking");
-        keyList.add("app");
+        keyList.add("mobile app ");
         return keyList;
     }
     
