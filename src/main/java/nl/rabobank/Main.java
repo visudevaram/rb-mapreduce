@@ -142,6 +142,47 @@ public class Main {
         }
     }
     
+    private static void sortFileBasedOnDate(){
+        
+        final URL url = Main.class.getClass().getResource("/tweets.txt");
+        FileWriter f = null;
+        final DateFormat format = new SimpleDateFormat("EEE");
+        
+        try {
+            Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
+            f = new FileWriter("C://temp//SortedTweets.txt");
+            while (input.hasNext()) {
+                String currentLine = input.next();
+                System.out.println(currentLine);
+               
+                String[] parts = currentLine.split("\t");
+               
+              //TODO : Implement the sorting logic and write in the file.
+                
+                try {
+                    format.parse(parts[0]);
+                } catch (Exception e) {
+                }
+               
+            }
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                if (f != null) {
+                    f.flush();
+                    f.close();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        
+        
+    }
+    
     private static void mapReduceLogic(){
         final URL url = Main.class.getClass().getResource("/uniqueRabobankTweets.txt");
         FileWriter f = null;

@@ -102,6 +102,11 @@ public class RbMapReduceMobile {
         keyList.add("Mobiel");
         keyList.add("mobile banking");
         keyList.add("mobile app ");
+        keyList.add("bankieren app");
+        keyList.add("rabobankieren");
+        keyList.add("rabo bankieren");
+        keyList.add("bankieren-app");
+        keyList.add("mobielbankieren");
         return keyList;
     }
 }
