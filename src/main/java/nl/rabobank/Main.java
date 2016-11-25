@@ -9,10 +9,7 @@ import java.net.URL;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Properties;
-import java.util.Scanner;
+import java.util.*;
 
 import org.apache.hadoop.io.Text;
 
@@ -146,25 +143,31 @@ public class Main {
         
         final URL url = Main.class.getClass().getResource("/tweets.txt");
         FileWriter f = null;
-        final DateFormat format = new SimpleDateFormat("EEE");
-        
+        final DateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH);
+
         try {
             Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
+            List<Feed> feeds = new ArrayList<Feed>();
             f = new FileWriter("C://temp//SortedTweets.txt");
+
             while (input.hasNext()) {
                 String currentLine = input.next();
-                System.out.println(currentLine);
-               
                 String[] parts = currentLine.split("\t");
-               
-              //TODO : Implement the sorting logic and write in the file.
-                
+
                 try {
-                    format.parse(parts[0]);
+                    Date feedDate = format.parse(parts[0]);
+                    feeds.add(new Feed(feedDate, parts[1], parts[2], parts[4]));
                 } catch (Exception e) {
+                    e.printStackTrace();
+                    System.out.println("Parsing error for the feed date.");
                 }
-               
+
             }
+            Collections.sort(feeds, new DateComparator());
+            for(Feed feed : feeds) {
+                f.write(feed.getFeetDate() + "\t" + feed.getFeedBy() + "\t" + feed.getLocation() + "\t" +  feed.getFeed());
+            }
+
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -179,8 +182,8 @@ public class Main {
                 e.printStackTrace();
             }
         }
-        
-        
+
+
     }
     
     private static void mapReduceLogic(){
