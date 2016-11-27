@@ -33,7 +33,7 @@ public class Main {
              //removeDuplicatesAndFormat();
             //cleanText();
            // mapReduceLogic();
-             sortFileBasedOnDate();
+           sortFileBasedOnDate();
             in.close();
         } catch (IOException ioException) {
         }
@@ -162,7 +162,7 @@ public class Main {
     
     private static void sortFileBasedOnDate(){
         
-        final URL url = Main.class.getClass().getResource("/tweets.txt");
+        final URL url = Main.class.getClass().getResource("/input/Savings.txt");
         FileWriter f = null;
         final DateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH);
 
@@ -174,7 +174,7 @@ public class Main {
 
                  String str;
                  List<Feed> feeds = new ArrayList<Feed>();
-                 f = new FileWriter("C://temp//Files_Input_For_MapReduce//27Nov//Sorted//uniqueINGTweets.txt");
+                 f = new FileWriter("C://github-code//rb-mapreduce//src//main//resources//output//Savings.txt");
                  while ((str = in.readLine()) != null) {
                      
                      
@@ -197,7 +197,7 @@ public class Main {
                 }
 
             }
-            Collections.sort(feeds, new DateComparator());
+            Collections.sort(feeds, new FeedComparator());
             for(Feed feed : feeds) {
                 f.write(feed.getBankName() + "\t" + feed.getFeetDate() + "\t" + feed.getFeedBy()  +  "\t" +  feed.getFeed());
                 f.write(System.lineSeparator());
