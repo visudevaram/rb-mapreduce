@@ -45,7 +45,7 @@ public class RbMapReduceComplete {
             }
             final String[] parts = line.split(SEPERATOR);
             if(parts.length > 3){
-                output.collect(new Text(parts[0]), new Text(parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]));
+                output.collect(new Text(parts[0]), new Text(parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[parts.length -1]));
             }
         }
     }

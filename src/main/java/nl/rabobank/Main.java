@@ -32,7 +32,7 @@ public class Main {
             // filterDataWithkey(props.getProperty("keys"));
              //removeDuplicatesAndFormat();
             //cleanText();
-            //mapReduceLogic();
+           // mapReduceLogic();
              sortFileBasedOnDate();
             in.close();
         } catch (IOException ioException) {
@@ -199,7 +199,7 @@ public class Main {
             }
             Collections.sort(feeds, new DateComparator());
             for(Feed feed : feeds) {
-                f.write(feed.getBankName() + "\t" + feed.getFeetDate() + "\t" + feed.getFeedBy() + "\t" +  "\t" +  feed.getFeed());
+                f.write(feed.getBankName() + "\t" + feed.getFeetDate() + "\t" + feed.getFeedBy()  +  "\t" +  feed.getFeed());
                 f.write(System.lineSeparator());
             }
 
@@ -227,15 +227,18 @@ public class Main {
         try {
             Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\r]");
             f = new FileWriter("C://temp//mapReduce.txt");
+
             while (input.hasNext()) {
                 String line = input.next();
+
                 if(line.toLowerCase().contains("https://")){
                     line = line.substring(0, line.indexOf("https://"));
                 }
                 final String[] parts = line.split(SEPERATOR);
                // System.out.println(parts[0] + SEPERATOR + parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]);
+                System.out.println(parts.length);
                 if(parts.length > 3){
-                    f.write(parts[0] + SEPERATOR + parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[3]);
+                    f.write(parts[0] + SEPERATOR + parts[1] + SEPERATOR + parts[2] + SEPERATOR + parts[parts.length -1]);
                     f.write(System.lineSeparator());
                 }
             }
