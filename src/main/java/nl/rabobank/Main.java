@@ -1,17 +1,23 @@
 package nl.rabobank;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.URL;
 import java.text.DateFormat;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.*;
-
-import org.apache.hadoop.io.Text;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Date;
+import java.util.List;
+import java.util.Locale;
+import java.util.Properties;
+import java.util.Scanner;
 
 public class Main {
 
@@ -24,9 +30,10 @@ public class Main {
             InputStream in = Main.class.getClass().getResourceAsStream("/props/Keys.properties");
             props.load(in);
             // filterDataWithkey(props.getProperty("keys"));
-             removeDuplicatesAndFormat();
+             //removeDuplicatesAndFormat();
             //cleanText();
             //mapReduceLogic();
+             sortFileBasedOnDate();
             in.close();
         } catch (IOException ioException) {
         }
@@ -71,21 +78,33 @@ public class Main {
         final DateFormat format = new SimpleDateFormat("EEE");
         boolean isDate = true;
         
-        String bankName = "Rabobank";
-        String toBeFilteredName = "rabo";
+        //String bankName = "Rabobank";
+        //String toBeFilteredName = "rabo";
         
-       // String bankName = "ING";
-      //  String toBeFilteredName = "ING Nederland";
+        String bankName = "ING";
+        String toBeFilteredName = "ING Nederland";
         
-        // String bankName = "Abn Amro";
-       //  String toBeFilteredName = "ABN AMRO";
+         //String bankName = "Abn Amro";
+        // String toBeFilteredName = "ABN AMRO";
        
         
         try {
-            Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
-            f = new FileWriter("C://temp//unique"+bankName+"Tweets.txt");
-            while (input.hasNext()) {
-                String currentLine = input.next();
+            
+            BufferedReader in = new BufferedReader(
+                    new InputStreamReader(
+                               new FileInputStream(new File(url.getFile())), "UTF8"));
+
+                 String str;
+                 f = new FileWriter("C://temp//unique"+bankName+"Tweets.txt");
+                 while ((str = in.readLine()) != null) {
+                   //  System.out.println(str);
+              //   }
+                 
+                 
+          //  Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
+           
+          //  while (input.hasNext()) {
+                String currentLine = str;
                 System.out.println(currentLine);
                
                 String[] parts = currentLine.split("\t");
@@ -101,20 +120,21 @@ public class Main {
                 }
                 if (isDate && parts.length > 2) {
                     
-                    if (!parts[parts.length - 1].toLowerCase().contains(bankName.toLowerCase())) {
-                        continue; // if the tweet does not have bank name, then skip it.
-                    }
+                   // if (!parts[parts.length - 1].toLowerCase().contains(bankName.toLowerCase())) {
+                     //   continue; // if the tweet does not have bank name, then skip it.
+                   // }
                     
                     
                     if (!timeStamp.contains(parts[0] + "\t" + parts[1])) {
                         f.write(bankName + "\t" + parts[0] + "\t" + parts[1] + "\t" + parts[parts.length - 1]);
-                       // f.write(System.lineSeparator());
+                       f.write(System.lineSeparator());
                     } else {
                         System.out.println(currentLine);
                     }
                     timeStamp.add(parts[0] + "\t" + parts[1]);
                 }
             }
+                 in.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
@@ -124,6 +144,7 @@ public class Main {
                 if (f != null) {
                     f.flush();
                     f.close();
+                    
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -146,17 +167,30 @@ public class Main {
         final DateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH);
 
         try {
-            Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
-            List<Feed> feeds = new ArrayList<Feed>();
-            f = new FileWriter("C://temp//SortedTweets.txt");
+            
+            BufferedReader in = new BufferedReader(
+                    new InputStreamReader(
+                               new FileInputStream(new File(url.getFile())), "UTF8"));
 
-            while (input.hasNext()) {
-                String currentLine = input.next();
+                 String str;
+                 List<Feed> feeds = new ArrayList<Feed>();
+                 f = new FileWriter("C://temp//Files_Input_For_MapReduce//27Nov//Sorted//uniqueINGTweets.txt");
+                 while ((str = in.readLine()) != null) {
+                     
+                     
+              //   }
+          //  Scanner input = new Scanner(new File(url.getFile())).useDelimiter("[|\\n]");
+          
+           
+
+           // while (input.hasNext()) {
+                String currentLine = str;
+                System.out.println(currentLine);
                 String[] parts = currentLine.split("\t");
 
                 try {
-                    Date feedDate = format.parse(parts[0]);
-                    feeds.add(new Feed(feedDate, parts[1], parts[2], parts[4]));
+                    Date feedDate = format.parse(parts[1]);
+                    feeds.add(new Feed(parts[0], feedDate, parts[2], parts[3]));
                 } catch (Exception e) {
                     e.printStackTrace();
                     System.out.println("Parsing error for the feed date.");
@@ -165,7 +199,8 @@ public class Main {
             }
             Collections.sort(feeds, new DateComparator());
             for(Feed feed : feeds) {
-                f.write(feed.getFeetDate() + "\t" + feed.getFeedBy() + "\t" + feed.getLocation() + "\t" +  feed.getFeed());
+                f.write(feed.getBankName() + "\t" + feed.getFeetDate() + "\t" + feed.getFeedBy() + "\t" +  "\t" +  feed.getFeed());
+                f.write(System.lineSeparator());
             }
 
         } catch (FileNotFoundException e) {
