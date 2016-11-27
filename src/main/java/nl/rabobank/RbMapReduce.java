@@ -35,7 +35,7 @@ public class RbMapReduce {
             if (value != null) {
                  String line = value.toString();
                  dataTransformation(output, line);
-                 //dataFilteration(output, line);
+                 //dataFilteration(input, line);
             }
 
         }
