@@ -1,29 +1,5 @@
-Rabobank	Tue Oct 25 22:14:04 CEST 2016	Sjoerd Tuinema	Waarom kan ik in @Rabobank internetbankieren (web) niks plakken in het bedrag- en betalingskenmerk-invoerveld? #plakjemee
-Rabobank	Wed Oct 26 09:41:19 CEST 2016	Linda	@Rabobank is er weer een storing met internetbankieren? Ik kan niks overmaken #fail #storing #rabobank
-Rabobank	Wed Oct 26 15:39:25 CEST 2016	Guido Urlings	@Rabobank is er nog steeds een storing op internetbankieren? Kan mijn creditcard niet inzien of pas instellen voor buitenland.
-Rabobank	Wed Oct 26 21:16:45 CEST 2016	Daphne	@Rabobank wanneer gaat de appilcatie weer goed werken om te internetbankieren? heb al een paar dagen een soort van storing..
-Rabobank	Thu Oct 27 16:52:50 CEST 2016	Rutger Bakker	@RaboZWD @Rabobank is er een storing met internetbankieren?
-Rabobank	Thu Oct 27 18:06:10 CEST 2016	Niek Kouwenberg	@Rabobank Is er een storing bekend bij internetbankieren? Pas activeren lukt niet. Ook in de app werken functies zoals "pas vervangen" niet.
-Rabobank	Thu Oct 27 20:27:59 CEST 2016	Ted Jansen	@Rabobank Hey, ik heb rond 16:30 iets gepind vanaf mijn zakelijke debitpas, alleen staat het (nog) niet op Internet Bankieren/App...
-Rabobank	Fri Oct 28 06:54:04 CEST 2016	Wilco Griffioen	@Rabobank mijn pinbetalingen kan ik niet terugzien op internetbankieren. Hoe kan dat?
-Rabobank	Fri Oct 28 17:01:55 CEST 2016	Bjarn Bronsveld 	@Rabobank Kan ook niet inloggen op internetbankieren, de app werkt wel.
-Rabobank	Fri Oct 28 20:28:08 CEST 2016	Tobias Nap	@Rabobank Beste, ik heb nu twee passen voor 1 rekening. Als ik nu wil internetbankieren krijg ik de foutcode 942. Wat moet ik doen?
-Rabobank	Sun Oct 30 02:55:15 CEST 2016	Miranda NL	Rabobank heeft onderhoud aan internet bankieren kun je niet bestellen met de korting?bestel toch hij komt in ons syŠ
-Rabobank	Sun Oct 30 02:04:51 CET 2016	meliss	RT @Miranda_NL: Rabobank heeft onderhoud aan internet bankieren kun je niet bestellen met de korting?bestel toch hij komt in ons systeem moō
-Rabobank	Sun Oct 30 20:19:03 CET 2016	Johan	En toch is het vreemd dat je bij @Rabobank internetbankieren professional de maandelijkse nota nog per post ipv digitaal ontvangt
-Rabobank	Mon Oct 31 13:18:57 CET 2016	Kdootjes.nl	@Rabobank  ik heb nu een internet bankieren pro abonnement vanwege koppeling boekhoudpakket maar de kwartaalfactuur kan alleen per post?!
-Rabobank	Tue Nov 01 09:59:58 CET 2016	Rianne Romijn	@Rabobank internetbankieren: dat je beide rekeningen kunt inzien via welk account je ook inlogt (zakelijk of prive).
-Rabobank	Tue Nov 01 12:37:00 CET 2016	Zakaria ouftir	@Rabobank waar en hoe vraag ik acceptgiro kaarten aan internetbankieren
-Rabobank	Tue Nov 01 12:45:29 CET 2016	Zakaria ouftir	@Rabobank ik wil acceptgiro kaarten om te kunnen overschrijven buiten internetbankieren om
-Rabobank	Tue Nov 01 18:48:16 CET 2016	Bjarn Bronsveld 	@rabobank Het gebeurd na het invoeren van je rekening en pasnummer bij iDeal en internetbankieren.
-Rabobank	Tue Nov 01 19:53:12 CET 2016	Dick Tijken	@Rabobank ^Els Of toch mijn moeder van 81 (evt. via mij) laten internetbankieren. Scheelt mij ook veel schrijfwerk. ?
-Rabobank	Wed Nov 02 12:50:29 CET 2016	Marlies Goldenberg	@rabobank Kunnen jullie aangeven wanneer de hypotheekgegevens weer zichtbaar zijn in internetbankieren?
-Rabobank	Wed Nov 02 12:55:49 CET 2016	Internetbankieren	The latest Nieuws over Internetbankieren! 
-Rabobank	Wed Nov 02 14:02:06 CET 2016	Marlies Goldenberg	@Rabobank Chrome en internet explorer zelfde melding. Ik kan verder overal in qua internetbankieren behalve hypotheken en opmaat verzekering
 Abn Amro	Thu Nov 03 01:12:53 CET 2016	Hans Moison	Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking  1 miljard euro naar jezelf overboeken.Š
 Abn Amro	Thu Nov 03 01:47:34 CET 2016	kindermobieltje	RT @HansMoison: Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking  1 miljard euro naar jezelf overboeken. Je zal mō
-Rabobank	Mon Nov 14 12:11:34 CET 2016	Marianne Notschaele	Jullie website doet raar? @Rabobank #internetbankieren na inloggen blauwe url-links
-Rabobank	Mon Nov 14 13:38:29 CET 2016	Jos Verveen	@Rabobank Ligt internetbankieren eruit?
 Abn Amro	Tue Nov 15 12:53:43 CET 2016	Marcos Marco MV	ABN AMRO Jawel er dient wel ingelogd te worden anders kun je dat niet via internet bankieren aanvragen.
 Abn Amro	Thu Nov 17 07:22:04 CET 2016	Ibi Nagy	Moet iedereen eens stoppen met internetbankieren. Zo maak je de medewerkers overbodig. Jeetje wat een ellende voor die medewerkers. Ik leef met ze mee😔
 Abn Amro	Fri Nov 18 14:23:05 CET 2016	DutchNewspapers	'Ontslagen ABN Amro onvermijdelijk door internetbankieren' 
@@ -52,10 +28,37 @@ Abn Amro	Fri Nov 18 15:15:22 CET 2016	Fina Timmer	RT @NOS: Minister Dijsselbloem
 Abn Amro	Fri Nov 18 15:40:47 CET 2016	Guido Motshagen	RT @NOS: Minister Dijsselbloem voelt zich niet verantwoordelijk voor ontslagen ABN Amro. Dat komt door het internetbankieren 
 Abn Amro	Fri Nov 18 15:50:26 CET 2016	OPENN-POLITICS Ωى	#nieuws #politiek 'Ontslagen ABN Amro onvermijdelijk door internetbankieren': MinisterŠ
 Abn Amro	Fri Nov 18 15:52:52 CET 2016	Xafax	'Ontslagen ABN Amro onvermijdelijk door internetbankieren'  
-Rabobank	Fri Nov 18 17:57:47 CET 2016	Babette Zijlstra	@Rabobank internet bankieren en dan die grafieken bovenaan.
 Abn Amro	Fri Nov 18 19:21:21 CET 2016	Donna Paola	RT @NOS: Minister Dijsselbloem voelt zich niet verantwoordelijk voor ontslagen ABN Amro. Dat komt door het internetbankieren 
-Rabobank	Fri Nov 18 20:30:41 CET 2016	Kitty Duke	@Rabobank belde vroeg of ik mijn bankpas om kon zetten internet bankieren maar werd afgesnauwd  laat maar zitten niet belangrijk
 Abn Amro	Sun Nov 20 04:05:03 CET 2016	Verkiezingen	'Ontslagen ABN Amro onvermijdelijk door internetbankieren' #Verkiezingen 
+Abn Amro	Wed Nov 23 17:39:30 CET 2016	Melita Purnomo	thanks Pim for your response. Unfortunately, i am not able to change my adress through internet bankieren. Do you perhaps have the link that i can download? Or maybe an email adress where i can send my account closing request?   thanks
+ING	Thu Nov 24 15:31:47 CET 2016	Papin Schipper	@ingnl ik kan (particulier) niet meer inloggen op internetbankieren, is er toevallig een storing?
+ING	Sun Nov 27 10:40:17 CET 2016	Bauke Buikstra	Goed Arnout. Mocht je geen bevredigend antwoord krijgen, dan kan ik je aanraden om gewoon over te stappen naar een duurzame bank. Het proces is erg eenvoudig - er is zelfs een speciale overstapservice in NL - en mijn ervaringen (ook betreft service, internet bankieren, kosten, etc) zijn tot nu toe louter positief.
+Rabobank	Tue Oct 25 22:14:04 CEST 2016	Sjoerd Tuinema	Waarom kan ik in @Rabobank internetbankieren (web) niks plakken in het bedrag- en betalingskenmerk-invoerveld? #plakjemee
+Rabobank	Wed Oct 26 09:41:19 CEST 2016	Linda	@Rabobank is er weer een storing met internetbankieren? Ik kan niks overmaken #fail #storing #rabobank
+Rabobank	Wed Oct 26 15:39:25 CEST 2016	Guido Urlings	@Rabobank is er nog steeds een storing op internetbankieren? Kan mijn creditcard niet inzien of pas instellen voor buitenland.
+Rabobank	Wed Oct 26 21:16:45 CEST 2016	Daphne	@Rabobank wanneer gaat de appilcatie weer goed werken om te internetbankieren? heb al een paar dagen een soort van storing..
+Rabobank	Thu Oct 27 16:52:50 CEST 2016	Rutger Bakker	@RaboZWD @Rabobank is er een storing met internetbankieren?
+Rabobank	Thu Oct 27 18:06:10 CEST 2016	Niek Kouwenberg	@Rabobank Is er een storing bekend bij internetbankieren? Pas activeren lukt niet. Ook in de app werken functies zoals "pas vervangen" niet.
+Rabobank	Thu Oct 27 20:27:59 CEST 2016	Ted Jansen	@Rabobank Hey, ik heb rond 16:30 iets gepind vanaf mijn zakelijke debitpas, alleen staat het (nog) niet op Internet Bankieren/App...
+Rabobank	Fri Oct 28 06:54:04 CEST 2016	Wilco Griffioen	@Rabobank mijn pinbetalingen kan ik niet terugzien op internetbankieren. Hoe kan dat?
+Rabobank	Fri Oct 28 17:01:55 CEST 2016	Bjarn Bronsveld 	@Rabobank Kan ook niet inloggen op internetbankieren, de app werkt wel.
+Rabobank	Fri Oct 28 20:28:08 CEST 2016	Tobias Nap	@Rabobank Beste, ik heb nu twee passen voor 1 rekening. Als ik nu wil internetbankieren krijg ik de foutcode 942. Wat moet ik doen?
+Rabobank	Sun Oct 30 02:55:15 CEST 2016	Miranda NL	Rabobank heeft onderhoud aan internet bankieren kun je niet bestellen met de korting?bestel toch hij komt in ons syŠ
+Rabobank	Sun Oct 30 02:04:51 CET 2016	meliss	RT @Miranda_NL: Rabobank heeft onderhoud aan internet bankieren kun je niet bestellen met de korting?bestel toch hij komt in ons systeem moō
+Rabobank	Sun Oct 30 20:19:03 CET 2016	Johan	En toch is het vreemd dat je bij @Rabobank internetbankieren professional de maandelijkse nota nog per post ipv digitaal ontvangt
+Rabobank	Mon Oct 31 13:18:57 CET 2016	Kdootjes.nl	@Rabobank  ik heb nu een internet bankieren pro abonnement vanwege koppeling boekhoudpakket maar de kwartaalfactuur kan alleen per post?!
+Rabobank	Tue Nov 01 09:59:58 CET 2016	Rianne Romijn	@Rabobank internetbankieren: dat je beide rekeningen kunt inzien via welk account je ook inlogt (zakelijk of prive).
+Rabobank	Tue Nov 01 12:37:00 CET 2016	Zakaria ouftir	@Rabobank waar en hoe vraag ik acceptgiro kaarten aan internetbankieren
+Rabobank	Tue Nov 01 12:45:29 CET 2016	Zakaria ouftir	@Rabobank ik wil acceptgiro kaarten om te kunnen overschrijven buiten internetbankieren om
+Rabobank	Tue Nov 01 18:48:16 CET 2016	Bjarn Bronsveld 	@rabobank Het gebeurd na het invoeren van je rekening en pasnummer bij iDeal en internetbankieren.
+Rabobank	Tue Nov 01 19:53:12 CET 2016	Dick Tijken	@Rabobank ^Els Of toch mijn moeder van 81 (evt. via mij) laten internetbankieren. Scheelt mij ook veel schrijfwerk. ?
+Rabobank	Wed Nov 02 12:50:29 CET 2016	Marlies Goldenberg	@rabobank Kunnen jullie aangeven wanneer de hypotheekgegevens weer zichtbaar zijn in internetbankieren?
+Rabobank	Wed Nov 02 12:55:49 CET 2016	Internetbankieren	The latest Nieuws over Internetbankieren! 
+Rabobank	Wed Nov 02 14:02:06 CET 2016	Marlies Goldenberg	@Rabobank Chrome en internet explorer zelfde melding. Ik kan verder overal in qua internetbankieren behalve hypotheken en opmaat verzekering
+Rabobank	Mon Nov 14 12:11:34 CET 2016	Marianne Notschaele	Jullie website doet raar? @Rabobank #internetbankieren na inloggen blauwe url-links
+Rabobank	Mon Nov 14 13:38:29 CET 2016	Jos Verveen	@Rabobank Ligt internetbankieren eruit?
+Rabobank	Fri Nov 18 17:57:47 CET 2016	Babette Zijlstra	@Rabobank internet bankieren en dan die grafieken bovenaan.
+Rabobank	Fri Nov 18 20:30:41 CET 2016	Kitty Duke	@Rabobank belde vroeg of ik mijn bankpas om kon zetten internet bankieren maar werd afgesnauwd  laat maar zitten niet belangrijk
 Rabobank	Mon Nov 21 09:43:03 CET 2016	Jaap Hak	Storing @RaboVR @Rabobank internetbankieren; betalen niet mogelijk door systeemstoring
 Rabobank	Mon Nov 21 10:01:13 CET 2016	Collin Leijenaar	Jammer dat er een landelijke #storing #internetbankieren is bij @Rabobank op moment dat ik even wat bankzaken moet doen. Dan maar #koffie ;)
 Rabobank	Mon Nov 21 10:16:10 CET 2016	Linda van de Ven	@Rabobank @Rabo_EV Is er een storing bij zakelijk internetbankieren? Ik krijg deze foutmelding bij het overboeken: (1/2)
@@ -68,7 +71,4 @@ Rabobank	Mon Nov 21 20:34:37 CET 2016	Thijs van Esveld	Ik zou graag de iphone 7 
 Rabobank	Tue Nov 22 14:09:45 CET 2016	Paul M. van Dam	@Rabobank storing bij internetbankieren... hoelang kan dat nog duren...
 Rabobank	Tue Nov 22 14:20:39 CET 2016	Paul M. van Dam	@Rabobank Storing bij internetbankieren. geen saldo bekijken. Vlgs locaal kantoor is storing bekend, maar ik ben benieuwd wanneer opgelost.
 Rabobank	Tue Nov 22 15:09:08 CET 2016	Chantal Nuyen	@Rabobank Zojuist in Opera browser geprobeerd en daar werkt het wel..? Gek. Inloggen in Internetbankieren wil ie ook niet in Chrome.
-Abn Amro	Wed Nov 23 17:39:30 CET 2016	Melita Purnomo	thanks Pim for your response. Unfortunately, i am not able to change my adress through internet bankieren. Do you perhaps have the link that i can download? Or maybe an email adress where i can send my account closing request?   thanks
-ING	Thu Nov 24 15:31:47 CET 2016	Papin Schipper	@ingnl ik kan (particulier) niet meer inloggen op internetbankieren, is er toevallig een storing?
-ING	Sun Nov 27 10:40:17 CET 2016	Bauke Buikstra	Goed Arnout. Mocht je geen bevredigend antwoord krijgen, dan kan ik je aanraden om gewoon over te stappen naar een duurzame bank. Het proces is erg eenvoudig - er is zelfs een speciale overstapservice in NL - en mijn ervaringen (ook betreft service, internet bankieren, kosten, etc) zijn tot nu toe louter positief.
 Rabobank	Sun Nov 27 12:34:11 CET 2016	Chloe Tucker	RT @Rabobank: Op dit moment is er een storing binnen Rabo Internetbankieren en Mobielbankieren. Excuses voor het ongemak. http://t.co/Kg5mwō
