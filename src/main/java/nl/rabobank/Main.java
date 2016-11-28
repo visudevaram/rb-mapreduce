@@ -30,10 +30,10 @@ public class Main {
             InputStream in = Main.class.getClass().getResourceAsStream("/props/Keys.properties");
             props.load(in);
             // filterDataWithkey(props.getProperty("keys"));
-             //removeDuplicatesAndFormat();
+             removeDuplicatesAndFormat();
             //cleanText();
            // mapReduceLogic();
-           sortFileBasedOnDate();
+           //sortFileBasedOnDate();
             in.close();
         } catch (IOException ioException) {
         }
@@ -85,7 +85,7 @@ public class Main {
         String toBeFilteredName = "ING Nederland";
         
          //String bankName = "Abn Amro";
-        // String toBeFilteredName = "ABN AMRO";
+         //String toBeFilteredName = "ABN AMRO";
        
         
         try {
