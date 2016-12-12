@@ -1,0 +1,57 @@
+javac -classpath Downloads/*.jar -d units workspace/ProcessData/src/hadoop/ProcessData.java
+
+jar -cvf units.jar -C units/.
+
+hadoop fs -mkdir input_dir
+
+hadoop fs -put workspace/ProcessData/src/hadoop/sample.txt input_dir
+
+hadoop jar units.jar hadoop.ProcessData input_dir output_dir
+
+hadoop fs -cat output_dir/part-00000
+
+hadoop fs -ls output_dir/
+
+mkdir rb
+
+javac -classpath Downloads/*.jar -d rb Downloads/RbMapReduce.java
+jar -cvf rb.jar -C rb/ .
+
+javac -classpath Downloads/*.jar -d rb_complete Downloads/RbMapReduceComplete.java
+jar -cvf rb_complete.jar -C rb_complete/ .
+
+javac -classpath Downloads/*.jar -d rb_cards Downloads/RbMapReduceCards.java
+jar -cvf rb_cards.jar -C rb_cards/ .
+
+javac -classpath Downloads/*.jar -d rb_internet Downloads/RbMapReduceInternet.java
+jar -cvf rb_internet.jar -C rb_internet/ .
+
+javac -classpath Downloads/*.jar -d rb_mobile Downloads/RbMapReduceMobile.java
+jar -cvf rb_mobile.jar -C rb_mobile/ .
+
+javac -classpath Downloads/*.jar -d rb_savings Downloads/RbMapReduceSavings.java
+jar -cvf rb_savings.jar -C rb_savings/ .
+
+hadoop fs -rm input_dir/uniqueRabobankTweets.txt
+hadoop fs -rm input_dir/uniqueAbnAmroTweets.txt
+hadoop fs -rm input_dir/uniqueINGTweets.txt
+
+hadoop fs -rm input_dir/completeTweets.txt
+
+hadoop fs -rm output_dir/*
+hadoop fs -rmdir output_dir
+
+hadoop fs -put Downloads/uniqueRabobankTweets.txt input_dir
+hadoop fs -put Downloads/uniqueAbnAmroTweets.txt input_dir
+hadoop fs -put Downloads/uniqueINGTweets.txt input_dir
+
+hadoop fs -put Downloads/completeTweets.txt input_dir
+
+
+hadoop jar rb.jar nl.rabobank.RbMapReduce input_dir output_dir
+
+hadoop fs -cat output_dir/part-00000
+
+hadoop fs -get output_dir/part-00000 .
+
+chmod 755 morning
