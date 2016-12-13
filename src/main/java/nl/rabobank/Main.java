@@ -30,7 +30,7 @@ public class Main {
             InputStream in = Main.class.getClass().getResourceAsStream("/props/Keys.properties");
             props.load(in);
             // filterDataWithkey(props.getProperty("keys"));
-             //removeDuplicatesAndFormat();
+            // removeDuplicatesAndFormat();
             //cleanText();
            // mapReduceLogic();
            sortFileBasedOnDate();
@@ -85,7 +85,7 @@ public class Main {
         String toBeFilteredName = "ING Nederland";
         
          //String bankName = "Abn Amro";
-        // String toBeFilteredName = "ABN AMRO";
+         //String toBeFilteredName = "ABN AMRO";
        
         
         try {
@@ -161,8 +161,8 @@ public class Main {
     }
     
     private static void sortFileBasedOnDate(){
-        
-        final URL url = Main.class.getClass().getResource("/input/Savings.txt");
+        String fileName = "Savings.txt";
+        final URL url = Main.class.getClass().getResource("/input/"+fileName);
         FileWriter f = null;
         final DateFormat format = new SimpleDateFormat("EEE MMM dd HH:mm:ss Z yyyy", Locale.ENGLISH);
 
@@ -174,7 +174,7 @@ public class Main {
 
                  String str;
                  List<Feed> feeds = new ArrayList<Feed>();
-                 f = new FileWriter("C://github-code//rb-mapreduce//src//main//resources//output//Savings.txt");
+                 f = new FileWriter("C://Data//rb-mapreduce//src//main//resources//output//"+fileName);
                  while ((str = in.readLine()) != null) {
                      
                      

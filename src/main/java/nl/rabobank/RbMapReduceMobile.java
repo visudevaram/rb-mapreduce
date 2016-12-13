@@ -99,6 +99,8 @@ public class RbMapReduceMobile {
 
     private static ArrayList<String> getMobileMessageContentKeysList() {
         ArrayList<String> keyList = new ArrayList<String>();
+        keyList.add(" app ");
+        keyList.add("-app ");
         keyList.add("Mobiel");
         keyList.add("mobile banking");
         keyList.add("mobile app ");

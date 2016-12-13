@@ -1,123 +1,346 @@
-Abn Amro	Fri Feb 05 16:48:42 CET 2016	Cor Schrijen	ABN AMRO Bank. Hoe voorkom je zakkenrollen met contactloos betalen ?  Kun je met jouw pinpas contactloos betalen, en bewaar je je pas vaak los in je broek of jaszak ? Criminelen kunnen met een draagbaar pinapparaat een bedrag van je rekening halen. Dat blijkt uit een test van de Consumentenbond.  Kwaadwillenden kunnen met een mobiel pinapparaat vlak langs iemand lopen, de pas scannen en zo geld buit maken. Voor bedragen hoger dan vijftig euro is een pincode nodig, maar criminelen kunnen deze afkijken wanneer je een bedrag opneemt.  De methode werkt alleen bij pinpassen waar een contactloos betalen tekentje op staat. Je vindt dit icoontje op de achterkant van je pasje.
-Abn Amro	Mon Feb 01 22:25:04 CET 2016	Mobiel Vergelijker	Is de ABN AMRO website geschikt voor de mobiel?
-Abn Amro	Mon Nov 14 16:45:59 CET 2016	Gretchen van Goirle-Katorze	Mobiel Bankieren app for the win :D (Y)
-Abn Amro	Thu Nov 03 01:47:34 CET 2016	kindermobieltje	RT @HansMoison: Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking  1 miljard euro naar jezelf overboeken. Je zal mō
-Abn Amro	Thu Nov 03 01:12:53 CET 2016	Hans Moison	Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking  1 miljard euro naar jezelf overboeken.Š
-Abn Amro	Sat Nov 19 11:52:14 CET 2016	Elise Vanmanen	Heb die vanuit fb geprobeerd en die vanuit Google Chrome (mobiel)
-ING	Fri Nov 18 22:59:18 CET 2016	Karin van der Pol	Net weer op TV. Wij van wc eend vinden dit echt een leuke commercial. #ING #mobielbankieren 
-ING	Thu Nov 24 16:35:45 CET 2016	amber	@ingnl hoi, mijn mobiel waar de mobiel bankieren app op stond, is kapot en ik heb de app nu gedownload op een andere mobiel, alleen kan ik -
-ING	Fri Nov 18 11:18:43 CET 2016	Evelien Spil	@ingnl Ik zag dat de poolse versie van bankieren-app al wel veel functionaliteiten heeft! kunnen jullie die code niet hergebruiken? :)
-ING	Thu Nov 24 15:54:09 CET 2016	Superericje	@ingnl Hoi, volgens mij is mobiel betalen uitgeschakeld,zoals ik wilde(teduur).. Krijg alleen geen bevestiging niks. hoe weet ik dat zeker?
-ING	Wed Nov 23 20:33:07 CET 2016	Edwin Van Der Voorn	@ingnl hoe kan ik mijn mobiele nummer wijzigen voor mijn ing? Heb door de weeks geen tijd om naar ING kantoor te gaan.
-ING	Wed Nov 23 18:47:33 CET 2016	kindermobieltje	RT @Panoz01: Hoe kom ik van de mobiel betalen app af @ingnl ? Mijn proefperiode loopt af, maar heb geen interesse in aanschaf (nog nooit geō
-ING	Wed Nov 23 18:41:35 CET 2016	Stefanie SHVD	Hoe kom ik van de mobiel betalen app af @ingnl ? Mijn proefperiode loopt af, maar heb geen interesse in aanschaf (nog nooit gebruikt).
-ING	Wed Nov 23 18:06:05 CET 2016	Tim Biesenbeek	@ingnl is mobiel betalen app voor studenten rekeningen gratis?
-ING	Wed Nov 23 13:58:56 CET 2016	san	@ingnl hoe is het met de ing app? Ik wil na bijna 10 dagen graag bankieren op m'n mobiel  zonder WiFi te moeten gebruiken!  @tmobile_webcare
-ING	Wed Nov 23 10:22:44 CET 2016	Carla van den N-R	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+Abn Amro	Sat Nov 19 13:08:03 CET 2016	NL Tech	ABN Amro Grip maakt je bewuster van je uitgaven: De nieuwe Grip-app van ABN Amro biedt klanten van� 
+Abn Amro	Sat Nov 19 13:04:32 CET 2016	Feedjunkie NL	ABN Amro Grip maakt je bewuster van je uitgaven: De nieuwe Grip-app van ABN Amro biedt� 
+Abn Amro	Fri Nov 18 17:31:46 CET 2016	App Nieuws	ABN Amro Grip app geeft inzicht in je geldzaken met categorie�n - DroidApp (Blog) 
+Abn Amro	Fri Nov 25 18:03:00 CET 2016	NOT_FOUND	Gaan jullie nog eens wat doen aan al die storingen bij jullie? Dit is nu al de 6e keer in 3/4 maanden tijd dat we voorlul staan in een winkel omdat er aangegeven wordt op het apparaat dat er geen saldo is!!!! En rara, als we internetbankieren app openen staat daar gewoon voldoende saldo om te kunnen pinnen. Dit kan echt niet zo ABN. Los dit op!
+Abn Amro	Sun Nov 20 10:25:16 CET 2016	NOT_FOUND	Super service van ABNAMRO! Mijn pas verloren in Barcelona.  Direct geblokkeerd via de app op mijn mobiel en vervangende pas aangevraagd. Paar dagen later thuis gekomen en daar lag de nieuwe pas al in mijn bus. ABNAMRO echt super! En kost niks, dat noem ik pas service!
+Abn Amro	Fri Nov 18 22:43:42 CET 2016	NOT_FOUND	wist nederland al dat naast financiele zaken de abnamro bank ook fungeert als politie en rechterbank. nee ik ook niet tot vorige week.  mijn zoon wilde inloggen op zjin app dit was een zaterdag, maar die deed het niet, zeker storing dacht hij dus hij wilde hem even opnieuw installeren, daar heb je je pasje voor nodig, maar die kon hij niet vinden. hij moest maandag weer naar drenthe voor zijn werk dus zei hij ma, zoek ff voor me misschien nog in een broek die in de was lig, doe ik jongen zei ik. echter dinsdags had ik de pas nog nergens gezien, dus ik zei mijn zoon hem te blokkeren en een nieuwe aan te vragen. ik geef hem een nummer en mijn zoon gaat bellen, dan krijgt hij te horen dat zijn rekening is geblokkeerd wegens fraudeleuze handelingen. mijn zoon weet niet eens wat dat woord inhoud, dus vraagt waar ze het over hebben. de bank legt uit dat er een hoop transacties zjin die niet kloppen. mijn zoon zegt hoe dan want het enige dat ik ontvang is mijn salaris, en verder betaal ik mijn scooterverzekering en mijn zorgverzekering en thats it. de abn vraagt of hij zijn pas heeft gegeven aan iemand, nee zegt hij ben niet achterlijk. hij legt uit dat de enige die zijn pas met code kan gebruiken zijn moeder is en vica versa. hij vraagt wat hij moet doen want hij is zich van geen kwaad bewust, de bank zegt dat hij moet langs komen op kantoor met legitimatie, mijn zoon zegt dan ik ben heel de week in drenthe kan het ook op zaterdag. jawel dat is geen probleem. maar dan komt mijn zoon thuis die vrijdag en ligt er een brief van de bank zijn rekening is beeindigd en hij is aangemeld bij een incidenten iets.  wtf klinkt hier meermaals, dus ik besluit is even met de politie te bellen, die maken een afspraak voor aangifte te komen doen. ik schrijf vervolgens een briefje voor mijn zoon en geef die af op het kantoor in rotterdam. nul response van de abnamro. ik zeg mijn zoon dan maar zondag af te wachten volgende week als we de aangifte doen dan kan de politie de zaak even onderzoeken en uitvinden wat er nou precies gebeurt wat zo fraudeleus moet zijn dat het leidt tot het opheffen van zijn rekening want de bank wil er ook niets over zeggen verder. dan opeens vandaag de afschriften. er blijkt dus een grapjas te zijn die namens mijn zoon allemaal tickets voor zover ik er wijs uit word, verkoopt op marktplaats. fijn echt geweldig, de ene storting na de andere zie je op de afschriften en de ene opname na de andere. heel boos bel ik de bank op en meld ze even dat als ze dat gelijk hadden gezegd mijn zoon direct spoed bij de politie had kunen door drukken want er worden door diverse mensen die geld hadden gestort een na  storting gedaan van een cent met mededelingen als : als ik je vind gaat  je kop eraf. heel fijn abn. voor de openheid naar iemand die vraagt wat voor transacties dan op zijn rekeningen.  ook ligt er een brief van de politie in den haag voor mijn zoon en hij moet zich melden en zal in hechtenis genonmen worden voor handelingen. uiteraard ga ik morgen den haag bellen om dit allemaal aan te kaarten. voor er aangiftes hier en daar en tegen die en die door elkaar heen gaan lopen.  maar heel fijn abn, dat bij vermoeden van fraude de bank schijnbaar fungeert als politie en zelf onderzoekt wie de schuldige is, en dan ook maar meteen als rechter en mijn zoon gewoon veroordeelt tot schuldig zijn , zijn rekening beeindigd. en hem aanmeld bij bureaus zodat mijn zoon nu een fraudeur is.  ooit wel eens aangedacht om mijn zoon even uit te nodigen en zijn verhaal aan te horen, of mag ik aannemen dat de abn fotos heeft van de pin automaten waar de opnames gedaan zijn dat mijn zoon daar op staat. ow nee wacht even die zijn er niet want mijn zoon heeft er niets mee te maken, iemand heeft op 1 of andere wijze zijn pas te pakken gekregen en zo de rekening gebruikt voor handelingen.  ik ben zo blij dat ik bij de ING bank zit, die nemen het belang van hun klanten op de eerste plaats en communiceren tenminste alvoren voor politie en rechter te spelen.
+Abn Amro	Sat Nov 26 10:48:38 CET 2016	NOT_FOUND	Hallo ABN.. Even een snelle vraagje.... sinds 2/3 dagen kunnen wij niet normaal de bankier app gebruiken. de toetsenbord werkt niet... wij moeten eerst de telefoon restarten voordat wij wel de toetsenbord kunnen gebruiken. alle andere apps met toetsenbord kunnen wij dus wel gebruiken. is dit bij jullie bekent? wij hebben een samsung galaxy s4.  groetjes
+Abn Amro	Thu Nov 17 10:28:56 CET 2016	NOT_FOUND	Er is weer een nieuwe nepmail in omloop?! Zojuist kreeg ik een goed in elkaar gezette email van Abnamro : (Misschien kunnen jullie even een waarschuwing rondmailen?  Uw betaalpas wordt automatisch vervangen Kan u met uw betaalpas contactloos betalen, en bewaard u uw betaalpas vaak in uw broekzak, jaszak of tas? Criminelen kunnen met een draagbaar pinapparaat een bedrag van uw rekening halen. Dat blijkt uit een test van de consumentenbond. Kwaadwillenden kunnen met een mobiel pinapparaat vlak langs iemand lopen en de pas scannen en zo geld buit maken. Voor bedragen hoger dan vijftig euro  is een pincode nodig. Maar criminelen kunnen deze afkijken wanneer je een bedrag opneemt. De methode werkt alleen bij uitgegeven betaalpassen met een vervaldatum to en met 09-2021 en waar een contactloos betalen icoontje op staat. U vindt dit icoontje op de voor- of achterkant van uw betaalpas. Zie hieronder een voorbeeld van het icoon.    Uw onveilige betaalpas wordt binnenkort automatisch vervangen door de beter beveiligde betaalpas. De vervaldatum van uw huidige betaalpas is daarom op initiatief van de bank gewijzigd naar 1 december 2016. Dat houdt in dat u uw huidige betaalpas na 1 december 2016 niet meer kunt gebruiken. Enkele dagen voor het verstrijken van de nieuwe vervaldatum ontvangt u de beter beveiligde betaalpas per post. De vervangingskosten van uw betaalpas (21,95 euro) wordt op 28 november 2016 automatisch van uw rekening afgeschreven. De beveiligde betaalpas kostenloos aanvragen? Normaliter zijn de vervangingskosten 21,95 euro. Uit coulance-overwegingen biedt de ABN AMRO haar klanten de mogelijkheid om de betaalpas tijdelijk kostenloos aan te vragen.     Met vriendelijke groet, ABN AMRO Bank N.V. Afdeling klantcommunicatie
+Abn Amro	Mon Oct 31 14:37:25 CET 2016	Don Mascarpone �	Valse nieuwsbrief 'ABN AMRO' - gezien in de #opgelicht app - 
+Abn Amro	Mon Oct 31 21:38:37 CET 2016	Robert Atkins	@Politepix ?\n\n(The ABN AMRO app just thanked me for my message and told me it would give me a �reaction within 24 hours�)
+Abn Amro	Wed Nov 02 14:11:07 CET 2016	zakelijkbankieren	ABN AMRO app 6e beste bankier app van de wereld! De app werkt goed, maar slechts 45 banken doen mee waarvan 2 NL. Meer @MPB_Research >mobile
+Abn Amro	Thu Nov 03 01:12:53 CET 2016	Hans Moison	Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking � 1 miljard euro naar jezelf overboeken.� 
+Abn Amro	Thu Nov 03 01:47:34 CET 2016	kindermobieltje	RT @HansMoison: Bij ABN Amro internetbankieren en mobiel bankieren kun je per overboeking � 1 miljard euro naar jezelf overboeken. Je zal m�
+Abn Amro	Tue Nov 08 14:07:41 CET 2016	Don Mascarpone �	E-mail 'ABN AMRO' over betaalpas is vals - gezien in de #opgelicht app - 
+Abn Amro	Sat Nov 12 21:41:37 CET 2016	Ad Lohman	ING app, ABN Amro, en nog enkele in de Microsoft app store maar #Rabobank weg. Geen app.
+Abn Amro	Sat Nov 12 22:21:31 CET 2016	Beleggersnetwerk	ABN AMRO heeft haar Insights app weer vernieuwd, interessante app voor beleggers 
+Abn Amro	Fri Nov 18 15:27:24 CET 2016	DroidApp	ABN Amro Grip app geeft inzicht in je geldzaken met categorie�n -  
+Abn Amro	Fri Nov 18 15:30:56 CET 2016	Stefan.	RT @DroidAppNL: ABN Amro Grip app geeft inzicht in je geldzaken met categorie�n -  
+Abn Amro	Fri Nov 18 16:04:06 CET 2016	Don Mascarpone �	Opnieuw valse nieuwsbrief 'ABN AMRO' - gezien in de #opgelicht app - 
+Abn Amro	Wed Nov 16 20:00:24 CET 2016	NOT_FOUND	Ken jij de GRIP app al? Tijdens onze livestream delen Joella en Nathalie hun ervaringen met de GRIP app en beantwoorden zij jouw vragen. Kijken dus!
+Abn Amro	Wed Nov 16 10:10:51 CET 2016	NOT_FOUND	Hallo ABN,  Hoe graag luisteren jullie naar de klant? Ik zit zelf namelijk al een tijdje te wachten op het inloggen in jullie app met Touch-ID en als ik de reacties in de Appstore een beetje door zit te lezen zit een heel groot gedeelte van de medegebruikers daar ook op te wachten?
+Abn Amro	Mon Nov 21 14:05:07 CET 2016	Don Mascarpone �	Phishingmail 'ABN AMRO' over Europees incasso - gezien in de #opgelicht app - 
+Abn Amro	Sat Nov 19 13:34:16 CET 2016	0pd@m ?	#ABN Amro Grip maakt je bewuster van je uitgaven: De nieuwe Grip-app van ABN Amro biedt klanten van de bank inzicht� 
+Abn Amro	Sat Nov 19 13:09:30 CET 2016	Lucie Modsen	ABN Amro Grip maakt je bewuster van je uitgaven: De nieuwe Grip-app van ABN Amro biedt klanten van� 
 ING	Wed Nov 23 09:26:27 CET 2016	Marco	@ingnl Mobiel Betalen uitzetten kan alleen via de app. Echter heb ik geen Android-telefoon meer, dus kan het ook niet uitzetten. Help.
-ING	Wed Nov 23 09:16:45 CET 2016	Jorna Leenheer	Dit billboard stimuleert eerder koffieconsumptie dan mobiel betalen schat ik zo in. #reclame is een vak @ingnl 
-ING	Tue Nov 22 20:06:53 CET 2016	RobinJos72	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
-ING	Tue Nov 22 18:37:02 CET 2016	Dennis van Iersel	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
-ING	Tue Nov 22 17:03:56 CET 2016	TamaraleRoy	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
-ING	Tue Nov 22 15:47:14 CET 2016	service sucks	@ingnl Het werkt! Mobiel accorderen van betalingen in 
-ING	Tue Nov 22 15:25:32 CET 2016	service sucks	@ingnl heb je het bericht gelezen? Mobiel accorderen van overboekingen op 
-ING	Tue Nov 22 15:08:20 CET 2016	Jean-Pierre v Ekeren	@volkskrant De verwijzing naar #twyp had wel in de tweet vermeld mogen worden... Huidige @ingnl bankieren app is namelijk prima??
-ING	Tue Nov 22 15:03:35 CET 2016	Bo Peeters	@ingnl Hi! Ik kreeg n melding over mobiel goedkeuren ipv tancodes. Maar hoe doe je dat als je je mobiel niet bij je hebt? Blijft het beide?
-ING	Tue Nov 22 14:22:29 CET 2016	Wouter Mellaart	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
-ING	Tue Nov 22 14:21:48 CET 2016	JCDecauxNL	.@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
-ING	Fri Nov 25 14:02:53 CET 2016	'heyyy	@ingnl Is er een probleem met de mobiel bankieren app? Ik kom er niet in
-ING	Tue Nov 22 08:25:58 CET 2016	Sebastiaan	@ingnl help! Mobiel Betalen werkt op mijn S7 Edge niet zoals het op mijn S6 deed. Ik moet nu daadwerkelijk mijn pin invoeren en de app open>
-ING	Tue Nov 22 07:12:15 CET 2016	service sucks	@ingnl waarom sturen jullie mij een bericht dat ik mobiel goedkeuren kan gebruiken, terwijl het niet geactiveerd is? ?#erintuininga weer
-ING	Fri Nov 25 10:47:25 CET 2016	kindermobieltje	RT @ajaja123: @ingnl ik heb de mobiel bankieren app, had al een code, maar nu open ik hem, en moet ik me opnieuw aanmelden. Ik heb geen tanō
-ING	Mon Nov 21 13:44:09 CET 2016	Tom	@ingnl Mijn moeder kan mijn rekeningen inzien via de Bankieren-app. Kunnen we dit uitzetten? Ik ben 18 jaar
-ING	Fri Nov 25 10:42:48 CET 2016	Arienne van Buytene	@ingnl ik heb de mobiel bankieren app, had al een code, maar nu open ik hem, en moet ik me opnieuw aanmelden. Ik heb geen tancodes bij me
-ING	Mon Nov 21 11:05:51 CET 2016	FloorVTL	@ingnl Hi! Mijn vader wil graag van mobiele Tan codes overstappen op een lijst. Hij is zelf niet in staat te bellen, what to do?
-ING	Mon Nov 21 10:23:53 CET 2016	Roos van Tilborg	@ingnl oh sorry mobiel bankieren
-ING	Mon Nov 21 10:01:40 CET 2016	Aukje	@ingnl Waar in mijn ING bankieren app kan ik een BIC-nummer invullen (voor buitenlandse overschrijving)?
-ING	Thu Nov 24 16:36:42 CET 2016	amber	@ingnl niet inloggen aangezien dat gaat via je eerste bankieren app. hoe kan ik alsnog inloggen?
-ING	Sun Nov 20 21:53:10 CET 2016	cas	Ik zie dat @ingnl claimt de mobielste bank van Nederland te zijn. Volgens mij heeft @bunq die titel al geclaimd en verdedigd!
+ING	Tue Nov 15 20:02:43 CET 2016	Patrick Lieberwirth	@ingnl , hoe kan het dat ineens mijn inloggegevens weg zijn van de app ? Moet ik eerst nieuwe naam per post aanvragen ... beetje jammer
+ING	Thu Nov 17 20:46:01 CET 2016	Jasper Stads	Lieve @ingnl de app werkt niet meer met 4g. Laden duurt een eeuwigheid. Zou je het willen oplossen, scheelt angst aan de kassa. Kusjes!
+ING	Fri Nov 18 11:18:43 CET 2016	Evelien Spil	@ingnl Ik zag dat de poolse versie van bankieren-app al wel veel functionaliteiten heeft! kunnen jullie die code niet hergebruiken? :)
+ING	Fri Nov 18 22:59:18 CET 2016	Karin van der Pol	Net weer op TV. Wij van wc eend vinden dit echt een leuke commercial. #ING #mobielbankieren 
+ING	Sat Nov 19 09:16:34 CET 2016	Marie	@ingnl mijn ing app werkt niet met 4g ik heb al van alles geprobeerd maar niks werkt
 ING	Sat Nov 19 12:50:35 CET 2016	Mathijs de Rooij	RT @Karinvdpol: Net weer op TV. Wij van wc eend vinden dit echt een leuke commercial. #ING #mobielbankieren 
+ING	Sat Nov 19 19:10:23 CET 2016	Berend Veneklaas	Bedankt @ingnl gekregen voor het geven van feedback zodat ze hun app kunnen verbeteren� 
+ING	Sat Nov 19 22:19:44 CET 2016	Tim Weijers	@MiguelvdHiele @ingnl @avrotrosradar @ABNAMRO  ziet je graag komen denk ik. Die hebben wel n wereld app voor inetbankieren ??
+ING	Sun Nov 20 09:53:11 CET 2016	John van den Bos	@ingnl Bij @bunq gewoon in de app en eigen PINcode kiezen. Kom op @ingnl.
+ING	Sun Nov 20 11:28:02 CET 2016	Marcel Sala	RT @aidovive: @ingnl Bij @bunq gewoon in de app en eigen PINcode kiezen. Kom op @ingnl.
+ING	Sun Nov 20 21:53:10 CET 2016	cas	Ik zie dat @ingnl claimt de mobielste bank van Nederland te zijn. Volgens mij heeft @bunq die titel al geclaimd en verdedigd!
+ING	Mon Nov 21 09:44:20 CET 2016	Nils Hoenson	@notquiteleo I don�t think so� Guess I just have to use the @ingnl app from now on.
+ING	Mon Nov 21 10:01:38 CET 2016	Roos van Tilborg	@ingnl klopt echt. App werkt niet op 4G tmobile w�l met wifi
+ING	Mon Nov 21 10:01:40 CET 2016	Aukje	@ingnl Waar in mijn ING bankieren app kan ik een BIC-nummer invullen (voor buitenlandse overschrijving)?
+ING	Mon Nov 21 10:23:53 CET 2016	Roos van Tilborg	@ingnl oh sorry mobiel bankieren
+ING	Mon Nov 21 10:37:26 CET 2016	Roos van Tilborg	@ingnl had dit nl ook gezien dus 4G uitgezet en toen deed de app t wel. Ik waxht wel af 
+ING	Mon Nov 21 11:00:10 CET 2016	Jessy  Ramakers	@ingnl juist. Dat is precies wat we bedoelen, veel te lang dus en niet online of via ing-app verkrijgbaar.
+ING	Mon Nov 21 11:05:51 CET 2016	FloorVTL	@ingnl Hi! Mijn vader wil graag van mobiele Tan codes overstappen op een lijst. Hij is zelf niet in staat te bellen, what to do?
+ING	Mon Nov 21 12:21:30 CET 2016	brabobuddha	@ingnl mijn ing app werkt wel over wifi maar niet over 4g terweil de rest wel over 4g werkt. Help!
+ING	Mon Nov 21 13:44:09 CET 2016	Tom	@ingnl Mijn moeder kan mijn rekeningen inzien via de Bankieren-app. Kunnen we dit uitzetten? Ik ben 18 jaar
+ING	Mon Nov 21 14:40:53 CET 2016	Aukje	@ingnl Ik begrijp je niet. Het is dus mogelijk via app naar een SEPA-land over te schrijven? Maar hoe dan? Ik zie niet waar BIC in te vullen
+ING	Mon Nov 21 19:00:47 CET 2016	Jordann Gross	.@ingnl Ben nogal verbaasd dat ik ruim maand geleden mijn #Twyp account heb verwijderd via de in-app optie en nu mail krijgt dat Twyp stopt.
+ING	Tue Nov 22 07:12:15 CET 2016	service sucks	@ingnl waarom sturen jullie mij een bericht dat ik mobiel goedkeuren kan gebruiken, terwijl het niet geactiveerd is? ?#erintuininga weer
+ING	Tue Nov 22 07:42:11 CET 2016	Paul Suijkerbuijk	Nooit geweten dat je bij @ingnl dip&go niet uit kan zetten, bij @bunq kun je in je app dit gewoon aan en uit zetten� 
+ING	Tue Nov 22 07:52:00 CET 2016	M Dell	RT @Palinuro: Nooit geweten dat je bij @ingnl dip&go niet uit kan zetten, bij @bunq kun je in je app dit gewoon aan en uit zetten, ook hoog�
+ING	Tue Nov 22 08:25:58 CET 2016	Sebastiaan	@ingnl help! Mobiel Betalen werkt op mijn S7 Edge niet zoals het op mijn S6 deed. Ik moet nu daadwerkelijk mijn pin invoeren en de app open>
+ING	Tue Nov 22 14:01:00 CET 2016	#24/25june #IMetThem	@ingnl de app wil niet laden...???
+ING	Tue Nov 22 14:21:48 CET 2016	JCDecauxNL	.@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Tue Nov 22 14:22:29 CET 2016	Wouter Mellaart	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Tue Nov 22 15:03:35 CET 2016	Bo Peeters	@ingnl Hi! Ik kreeg n melding over mobiel goedkeuren ipv tancodes. Maar hoe doe je dat als je je mobiel niet bij je hebt? Blijft het beide?
+ING	Tue Nov 22 15:08:20 CET 2016	Jean-Pierre v Ekeren	@volkskrant De verwijzing naar #twyp had wel in de tweet vermeld mogen worden... Huidige @ingnl bankieren app is namelijk prima??
+ING	Tue Nov 22 15:18:49 CET 2016	service sucks	@ingnl Nee, een berichtje in mijn ING app 
+ING	Tue Nov 22 15:25:32 CET 2016	service sucks	@ingnl heb je het bericht gelezen? Mobiel accorderen van overboekingen op 
+ING	Tue Nov 22 15:47:14 CET 2016	service sucks	@ingnl Het werkt! Mobiel accorderen van betalingen in 
+ING	Tue Nov 22 17:03:56 CET 2016	TamaraleRoy	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Tue Nov 22 18:37:02 CET 2016	Dennis van Iersel	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Tue Nov 22 20:06:53 CET 2016	RobinJos72	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Wed Nov 23 07:12:03 CET 2016	ING voor Ondernemers	Administratie kost tijd. V��l tijd. Test als eerste de uitbreidingen in de zakelijke app ? 
+ING	Wed Nov 23 09:16:45 CET 2016	Jorna Leenheer	Dit billboard stimuleert eerder koffieconsumptie dan mobiel betalen schat ik zo in. #reclame is een vak @ingnl 
+ING	Wed Nov 23 10:22:44 CET 2016	Carla van den N-R	RT @JCDecauxNL: .@ingnl verrast mensen met Memory-Abri als grootste mobiele spel van NL 
+ING	Wed Nov 23 13:44:30 CET 2016	JerryHerry	@ingnl op mn nieuwe telefoon wil de ING app meestal niet inloggen. Ook vingerafdrukoptie komt  niet naar voren. Soms doet ie het wel. Why?
+ING	Wed Nov 23 13:58:56 CET 2016	san	@ingnl hoe is het met de ing app? Ik wil na bijna 10 dagen graag bankieren op m'n mobiel  zonder WiFi te moeten gebruiken!  @tmobile_webcare
+ING	Wed Nov 23 18:06:05 CET 2016	Tim Biesenbeek	@ingnl is mobiel betalen app voor studenten rekeningen gratis?
+ING	Wed Nov 23 18:41:35 CET 2016	Stefanie SHVD	Hoe kom ik van de mobiel betalen app af @ingnl ? Mijn proefperiode loopt af, maar heb geen interesse in aanschaf (nog nooit gebruikt).
+ING	Wed Nov 23 18:47:33 CET 2016	kindermobieltje	RT @Panoz01: Hoe kom ik van de mobiel betalen app af @ingnl ? Mijn proefperiode loopt af, maar heb geen interesse in aanschaf (nog nooit ge�
+ING	Wed Nov 23 20:33:07 CET 2016	Edwin Van Der Voorn	@ingnl hoe kan ik mijn mobiele nummer wijzigen voor mijn ing? Heb door de weeks geen tijd om naar ING kantoor te gaan.
+ING	Wed Nov 23 21:17:52 CET 2016	Jan Mateboer	Ah, geen TAN codes meer bij de @ingnl Werkt perfect via de app en TouchID op de iPhone!
+ING	Wed Nov 23 21:37:47 CET 2016	san	@ingnl ja dat klopt Anita dan werkt de app niet, technisch iets zegt tmobile
+ING	Thu Nov 24 10:57:55 CET 2016	Bart	@ingnl Goedemorgen ING kan ik in de MOB app ook de volgorde van mijn rekeningen aanpassen ?
+ING	Thu Nov 24 12:37:25 CET 2016	Jeroen van zeeland	@tmobile_webcare @ingnl weten jullie al waarneer de ing app weer goed gaat werke!  Ben vaak onderweg en kan nu dus niks met de app ???
+ING	Thu Nov 24 15:54:09 CET 2016	Superericje	@ingnl Hoi, volgens mij is mobiel betalen uitgeschakeld,zoals ik wilde(teduur).. Krijg alleen geen bevestiging niks. hoe weet ik dat zeker?
+ING	Thu Nov 24 16:35:45 CET 2016	amber	@ingnl hoi, mijn mobiel waar de mobiel bankieren app op stond, is kapot en ik heb de app nu gedownload op een andere mobiel, alleen kan ik -
+ING	Thu Nov 24 16:36:42 CET 2016	amber	@ingnl niet inloggen aangezien dat gaat via je eerste bankieren app. hoe kan ik alsnog inloggen?
+ING	Thu Nov 24 18:27:43 CET 2016	Hugo M	@ingnl wanneer werkt jullie app met @Telfort NFC Simkaart? #voorlopen #NCFMetiphone
+ING	Thu Nov 24 18:36:55 CET 2016	Peter	@ingnl goedenavond ik heb 1 jaar lang de mob betalen app gebruikt en wens er niet langer gebruik van te maken.Vriendelijke groet P.Breugem
+ING	Fri Nov 25 10:42:48 CET 2016	Arienne van Buytene	@ingnl ik heb de mobiel bankieren app, had al een code, maar nu open ik hem, en moet ik me opnieuw aanmelden. Ik heb geen tancodes bij me
+ING	Fri Nov 25 10:47:25 CET 2016	kindermobieltje	RT @ajaja123: @ingnl ik heb de mobiel bankieren app, had al een code, maar nu open ik hem, en moet ik me opnieuw aanmelden. Ik heb geen tan�
+ING	Fri Nov 25 13:25:20 CET 2016	Jasper Stuyvenberg	@ingnl De app doet het niet... storing?
+ING	Fri Nov 25 13:37:07 CET 2016	Eline Ackermans	@ingnl is er een storing? App blijft hangen bij inloggen.
+ING	Fri Nov 25 14:02:53 CET 2016	'heyyy	@ingnl Is er een probleem met de mobiel bankieren app? Ik kom er niet in
+ING	Fri Nov 25 14:07:41 CET 2016	Marcos	heeft @ingnl  app weer storing??  kom er niet in :s
 ING	Fri Nov 25 14:17:27 CET 2016	Inge	@ingnl kan het zijn dat jullie storing hebben op de (mobiel)app?
-Rabobank	Sun Nov 27 12:34:11 CET 2016	Chloe Tucker	RT @Rabobank: Op dit moment is er een storing binnen Rabo Internetbankieren en Mobielbankieren. Excuses voor het ongemak. http://t.co/Kg5mwō
-Rabobank	Fri Nov 25 16:53:18 CET 2016	Bongani Biesmans	Ik zou hem willen voor beteren foto's te kunnen maken en de Rabobank app niet meer op mijn mobiel past
-Rabobank	Tue Nov 22 15:35:16 CET 2016	Jessica	@Rabobank Ik heb een Telfort NCF-sim, maar na het registreren van mn toestel geeft hij een foutmelding bij het aanmaken van een mobiele pas
-Rabobank	Tue Nov 22 11:54:44 CET 2016	Liam Vos	@Rabobank Deze meldingen. Staan in de normale bankieren app. 
-Rabobank	Mon Nov 21 20:34:37 CET 2016	Thijs van Esveld	Ik zou graag de iphone 7 willen winnen omdat de rabobankieren app te zwaar is voor mijn iphone 4!! Ik kan niet eens internetbankieren ?
-Rabobank	Mon Nov 21 12:03:17 CET 2016	Patrick	@Rabobank  ligt de internet bankieren app plat of zo? Kan niet inloggen namelijk
-Rabobank	Mon Nov 21 09:05:18 CET 2016	Hindrik Bruinsma ?	Hi @Rabobank, ik wilde afrekenen bij @ZalandoNL. Maar doordat ze iDEAL in te app hebben geplaatst, kan ik niet de Bankieren App 1/3
-Rabobank	Fri Nov 18 11:39:49 CET 2016	Jazzy X	@Rabobank Het zou fijn zijn als je bij 'EXTRA inzicht' in Rabobankieren kan zien wat het gemiddelde is van je uitgaven zoals boodschappen.
-Rabobank	Tue Nov 15 16:16:27 CET 2016	GSM nieuws	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store - De Rabo Bankieren-app kan weer vanuit de Windows ... 
-Rabobank	Tue Nov 15 15:54:08 CET 2016	NL Tech	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store: De Rabo Bankieren-app kan weer vanuitŠ
-Rabobank	Tue Nov 15 15:51:03 CET 2016	Arie Baars	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store: De Rabo Bankieren-app kan weer vanuit de Windows StoreŠ
-Rabobank	Mon Nov 14 16:57:22 CET 2016	Ad Lohman	#rabobank . De Rabobank "onderzoekt" hoe het kan dat hun bankieren app uit de Windowsstore is verdwenen. Onzin.
-Rabobank	Mon Nov 14 14:44:31 CET 2016	Robert	Hallo @Rabobank. Ik vind het wel vreemd dat jullie bankieren-app ineens in het Engels is. Op zich geen probleem, maar gewoon: klopt dit wel?
-Rabobank	Mon Nov 14 13:35:55 CET 2016	Geek Trading Systems	@Rabobank Ik heb ook een #App van mijn #broker (grote bekende) op #mobiel. Die hoeft geen onnodige toegang en werkt perfect. (2/3) #privacy
-Rabobank	Mon Nov 14 11:43:08 CET 2016	Geek Trading Systems	@Rabobank dit is een serieuze vraag hoor. Ik kijk uit naar uw antwoord. \n #RaboApp #mobielbankieren #privacy
-Rabobank	Sun Nov 13 14:15:31 CET 2016	Shirley de Jong	@Rabobank Geen Samsung meuk en ik zit ook op het mobiele netwerk van @Ziggo.
-Rabobank	Sun Nov 13 02:47:18 CET 2016	kindermobieltje	RT @brammolenaaar: Weer onderhoud aan mobiel bankieren zodat ik niet eens bij mijn eigen geld kan. Doei @Rabobank!
-Rabobank	Sun Nov 13 02:31:46 CET 2016	Bram Molenaar	Weer onderhoud aan mobiel bankieren zodat ik niet eens bij mijn eigen geld kan. Doei @Rabobank!
-Rabobank	Sat Nov 12 22:47:31 CET 2016	kindermobieltje	RT @marijn2009: Hallo @KPNwebcare Ik wil graag met mijn mobiel betalen via @Rabobank Met de NFC Kan dat eigenlijk moet je daar speciale simō
-Rabobank	Sat Nov 12 22:40:53 CET 2016	Ad Lohman	@Rabobank Waar is mijn bankieren app op mijn Windows Phone?
-Rabobank	Sat Nov 12 22:32:28 CET 2016	Marijn	Hallo @KPNwebcare Ik wil graag met mijn mobiel betalen via @Rabobank Met de NFC Kan dat eigenlijk moet je daar speciale simkaart 1/2
-Rabobank	Sat Nov 12 21:38:17 CET 2016	Ad Lohman	#rabobank.  Microsoft telefoon weg Rabo Bankieren app
-Rabobank	Sat Nov 12 20:54:42 CET 2016	Sven Belonje	Ugh kan nog steeds niet mobiel pinnen bij @Rabobank
-Rabobank	Sat Nov 12 17:47:28 CET 2016	kindermobieltje	RT @mj_segers: Waarom is er geen Rabobank mobiel bankieren app meer voor Windows 10?
-Rabobank	Sat Nov 12 17:30:59 CET 2016	Marie-Jos顓egers	Waarom is er geen Rabobank mobiel bankieren app meer voor Windows 10?
-Rabobank	Sat Nov 12 14:23:21 CET 2016	Elco van der Meer	@Rabobank Waarom kan ik de Rabo Bankieren-app niet downloaden uit de Windows 10 (Mobile)-store, zoals voorheen?
-Rabobank	Sat Nov 12 12:32:23 CET 2016	Arie van Loon	@Rabobank hebben jullie al een termijn waarop de Windows 10 Mobile app weer in de store staat?
-Rabobank	Sun Nov 06 09:58:19 CET 2016	Alice Burger	Ligt het dus niet aan mij.... Heb hetzelfde probleem.... zowel op mobiel als laptop.... ?
-Rabobank	Sat Nov 05 16:36:30 CET 2016	Kevin Hegeman	@Rabobank Waarom is de Rabo Bankieren app niet te downloaden voor windows 10 mobile?
-Rabobank	Sat Nov 05 08:47:40 CET 2016	Sander Vroom	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Fri Nov 04 23:55:14 CET 2016	Jos Eringfeld	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Fri Nov 04 19:01:08 CET 2016	Gerard van Rijswijk	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
-Rabobank	Fri Nov 04 18:16:24 CET 2016	Sven de Jong	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Fri Nov 04 12:26:18 CET 2016	Stad&MiddenGroningen	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Fri Nov 04 07:22:32 CET 2016	Richard Waninge	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 23:28:19 CET 2016	Johan Heerema	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 22:55:41 CET 2016	Tom Sanders	@Rabobank Ik wil graag de mobiele app gebruiken zonder toegang tot telefoon te geven. Jullie zijn een bank, niet mijn secretaresse.
-Rabobank	Thu Nov 03 22:48:52 CET 2016	Sjoerd Scholte	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 22:43:58 CET 2016	Jan Heusinkveld	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 22:31:31 CET 2016	Erik Zigterman	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 21:56:48 CET 2016	Kelly Huisman	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 21:55:20 CET 2016	Martijn Rol	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 21:54:34 CET 2016	Cahit Ilkin	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 21:40:30 CET 2016	Koen Boomsma	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 21:32:32 CET 2016	????	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
-Rabobank	Thu Nov 03 18:31:11 CET 2016	Laura Hoogstraten	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
-Rabobank	Thu Nov 03 18:24:03 CET 2016	Dennis Dondergoor	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
-Rabobank	Thu Nov 03 12:13:05 CET 2016	Oogvereniging	Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
-Rabobank	Wed Nov 02 18:42:14 CET 2016	Sander Kouwenberg	RT @CarlijnSara: Nieuwe mogelijkheden in de Rabo Bankieren App, waaronder inloggen met vingerafdruk. 
-Rabobank	Wed Nov 02 17:13:00 CET 2016	Carlijn van den Berg	Nieuwe mogelijkheden in de Rabo Bankieren App, waaronder inloggen met vingerafdruk. 
-Rabobank	Wed Nov 02 17:11:09 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
-Rabobank	Wed Nov 02 15:50:05 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
-Rabobank	Wed Nov 02 15:22:32 CET 2016	Bj򲮠Maassen	RT @iphoned: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
-Rabobank	Wed Nov 02 14:48:59 CET 2016	Dennis	RT @iphoned: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
-Rabobank	Wed Nov 02 14:34:15 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
-Rabobank	Wed Nov 02 14:31:07 CET 2016	Petra Vlaanderen	Inloggen met vingerafdruk in Rabo bankieren app is nu mogelijk op iPhone en iPad. 
-Rabobank	Wed Nov 02 13:54:22 CET 2016	WazziPhone	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app 
-Rabobank	Wed Nov 02 13:40:05 CET 2016	iPhoned.nl	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
-Rabobank	Wed Nov 02 13:38:09 CET 2016	Ricardo Blok	Rabobank laat je inloggen met Touch ID in Rabo Bankieren-app 
-Rabobank	Wed Nov 02 12:49:40 CET 2016	Megan	@Rabobank hoe voeg ik een spaarrekening toe aan mn Bankieren-app?
-Rabobank	Wed Nov 02 12:28:16 CET 2016	Patrick Verbeij	Inloggen ꮠondertekenen met je vingerafdruk nu beschikbaar voor @Rabobank mobielbankieren! ??#superhandig @RaboAenV 
-Rabobank	Wed Nov 02 12:01:24 CET 2016	Boot Error	Rabobank laat je inloggen met Touch ID in Rabo Bankieren-app 
-Rabobank	Wed Nov 02 11:06:36 CET 2016	0pd@m ?	#Rabobank-app ondersteunt inloggen via vingerafdruk: Rabobank heeft een nieuwe versie van de Rabo Bankieren AppŠ
-Rabobank	Wed Nov 02 10:46:58 CET 2016	Martino van Vliet	Hey @Rabobank wat leuk #touchID werkt! Nu #ApplePay nog even fixen. Slaan jullie mooie slag voor mobiele betalingen #Rabobank
-Rabobank	Wed Nov 02 10:12:28 CET 2016	Niels L.	@Rabobank hi, ik heb een andere simkaart en nu werkt Wallet niet meer! De mobiele pas is nog gelinkt ofzo. 
-Rabobank	Wed Nov 02 09:57:11 CET 2016	GSM Helpdesk NL	Rabobank bankieren app ondersteunt nu Touch ID vingerafdrukscanner 
-Rabobank	Wed Nov 02 09:03:18 CET 2016	E??? K???s???	Heb jij een Iphone of Ipad en de Rabo Bankieren App?\nInloggen met vingerafdruk is vanaf nu mogelijk. 
-Rabobank	Wed Nov 02 08:42:34 CET 2016	Tom Zwaan	Rabobank begint uitrol Touch ID in Rabo Bankieren-app 
-Rabobank	Wed Nov 02 06:50:00 CET 2016	Chantal Coolsma	Djeeeezzzz eindelijk TouchID bij Rabobank Bankieren app.
-Rabobank	Wed Nov 02 03:06:00 CET 2016	APK-Dl	Rabo Bankieren  Released!\n
-Rabobank	Tue Nov 01 21:58:20 CET 2016	Martijn Vogel	@Rabobank Waarom willen jullie sinds de nieuwe #release van de bankieren app voor Android mijn #locatie weten? 
-Rabobank	Tue Nov 01 21:53:37 CET 2016	Liesbeth de Wild	RT @mjagertwit: Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
-Rabobank	Tue Nov 01 18:56:53 CET 2016	Cor Pronk	RT @mjagertwit: Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
-Rabobank	Tue Nov 01 15:34:21 CET 2016	Edwin Martens	Rabobank begint uitrol Touch ID in Rabo Bankieren-app 
-Rabobank	Tue Nov 01 12:53:07 CET 2016	Mark de Jager	Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
-Rabobank	Mon Oct 31 10:15:30 CET 2016	Michiel vVlaardingen	RT @cascer1: @Rabobank waarom mag ik geen screenshots maken in de rabo bankieren App?
-Rabobank	Sun Oct 30 19:05:54 CET 2016	Kristina Hill	Rabobank mikt op volgend kwartaal met mobiel iDeal ō
-Rabobank	Sat Oct 29 16:01:56 CEST 2016	Kristal Kwon	Rabobank mikt op volgend kwartaal met mobiel iDeal ō
-Rabobank	Thu Oct 27 18:39:57 CEST 2016	Angelique van Eck	@Rabobank zijn mobiele nr kan onmogelijk bekend zijn. Is zijn werk telefoon. Alleen mijn nr is bekend! Gr Angelique
+ING	Fri Nov 25 14:32:10 CET 2016	Wendy	Beste @ingnl waarom kan ik op de app alleen inloggen als ik verbonden ben met wifi??
+ING	Sun Nov 27 13:44:59 CET 2016	Marcus	@ingnl merci. App doet t niet op android en telefonisch ging maandag pas 
+ING	Sun Nov 27 21:04:13 CET 2016	NOT_FOUND	Verzoek een bevestigingscode voor mijn mobieltje, ing-app. Kan het in "MIJN ING" niet vinden. Toestel LG G4 en Samsung S4. Alvast bedankt.
+ING	Mon Nov 28 14:53:59 CET 2016	NOT_FOUND	Kan het zijn dat deze verstoring ook effect heeft op buitenland betalingen ? Ik heb op 17 November een bedrag overgeboekt naar Ghana, volgens de app is het bedrag afgeschreven, maar de bank van de ontvanger zegt dat er niets is gearriveerd. Deze overschrijvingen doe ik al jaren, altijd goed gegaan.
+Rabobank	Sat Nov 26 23:37:26 CET 2016	NOT_FOUND	Ik krijg al dagen bericht over dat er hackers etc bezig zijn via de Rabobank app. En nu moet ik steeds opnieuw inloggen om veiligheidsredenen en als ik dan eindelijk in mijn app zit dan krijg ik allemaal rare tekens en wel de bedragen op mijn rekeningen te zien maar ik kan alleen overboeken. Home knop is weg, functie knoppen zijn weg.... Begin het te wantrouwen, hebben hier nog meer mensen last van? En weet iemand wat dit is?
+Rabobank	Mon Nov 21 10:16:57 CET 2016	NOT_FOUND	Hi Rabobank! What's up met de 'saldo- en betaalalerts'? Ik had ze ingesteld maar in ontvang ze al een tijdje niet meer. Als ik ze opnieuw wil instellen zegt de app "Pagina kan niet geladen worden (...)". Die alerts waren nou juist net zo prettig :)
+Rabobank	Sat Nov 19 17:13:19 CET 2016	NOT_FOUND	De wallet, leek mij een uitkomst, rabo pasje en alle winkel-klanten kaarten in de mobiel. Nee dus de rabo pas werkt niet bij alle contactloze betaalautomaten de winkel-klanten-kaarten werken niet met de kaarten bij diverse winkels  mijn Samsung S6 heeft hoog resolutie scherm en met een simpel gratis app voor winkel-klanten kaarten werkt het overal (echt) perfect.  voor mij geen werkbaar product, jammer
+Rabobank	Mon Nov 14 21:57:41 CET 2016	NOT_FOUND	Beste Rabobank,  Ik heb sinds een maandje een gloednieuwe telefoon, de OnePlus 3. Deze telefoon ondersteunt NFC, dus ik dacht: dan kan ik met mijn mobiel betalen! Vol goede moed heb ik een NFC simkaart bemachtigd en probeerde de Rabo Wallet app in te stellen. U kunt zich voorstellen hoe groot mijn teleurstelling was toen bleek dat mijn toestel niet ondersteund wordt!  Ik heb toen eens even rondgekeken en wat blijkt: mijn collega-eigenaren van de OnePlus3 die bij de ING zitten kunnen w�l met dit toestel betalen! Er is dus geen technische beperking waardoor dit toestel niet zou kunnen werken. Mijn vraag is dus: waarom werkt contactloos betalen niet op mijn toestel?
+Rabobank	Mon Nov 14 21:56:06 CET 2016	NOT_FOUND	Ik wil toch even kwijt dat ik de website van Rabo bank erg klantonvriendelijk / onduidelijk vind. Ik zoek me suf om gewoon een betaling te doen? Ligt dat aan mij? Ik kan blijkbaar ook geen gewone email meer sturen om dit aan te geven? Dan maar betalen met de app ...
+Rabobank	Mon Nov 14 11:00:36 CET 2016	NOT_FOUND	Ik vind het niet goed dat jullie veel filialen weg halen , zoals in grave bijvoorbeeld.   Net stond er een oudere vrouw bij de pin automaat helemaal in paniek ..  Haar pinpas kwam er niet uit , ze wist niet wat ze moest doen ..  Samen met een andere vrouw hebben we haar gerust gesteld en naar de rabobank laten bellen via mobiel .  Maar gewoon echt sneu en triest ..  Mensjes worden aan hun lot overgelaten .  - geen medewerker die haar kan helpen  met pinnen - geen medewerker die haar kan helpen als het fout gaat  - nergens een infobord met informatie voor oude mensen wat ze kunnen doen als het gebeurd - geen telefoonnummer  - internet en online bankieren / pas aanvragen is vaak te ingewikkeld voor die mensen  - andere filialen zijn minimaal 10 km verderop die nog open zijn . - mevrouw kan x aantal dagen niet bij haar geld ..  Als jullie zo graag bezuinigingen prima ?  Maar maak op zijn minst een informatiebord voor oudere mensen wat ze kunnen doen als de pas wordt ingeslikt ..   En hoeven ze niet 15 minuten bij de pinautomaat te staan omdat ze bang is dat iemand anders haar pas pakt en niet snapt waar hij is en hoe hij terug komt  Met vriendelijke groet  Bram
+Rabobank	Mon Nov 07 19:47:59 CET 2016	NOT_FOUND	Goedenavond Rabobank,  Zojuist mijn hard verdiende centjes uit de pinautomaat proberen te halen te Vlaardingen. Wat schets mijn verbazing?! Alles verloopt volgens plan alleen tijdens de actie "neem uw geld" kwam er een raar geluid en u raadt het al ..... GEEN GELD!  Stond ik daar met mijn bek vol tanden maar legen handen.   Nu heeft deze madam van generatie KPN gelijk op de app gekeken en blijkt het bedrag w�l afgeschreven!   Lieve Rabobank wat nu?!
+Rabobank	Mon Nov 07 12:02:27 CET 2016	NOT_FOUND	Wederom op maandag storing met betalingen via internetbankieren (zowel app als website). Zo onhandig als je als winkelier op maandag ochtend je administratie wilt doen. Graag bericht zodra het is verholpen.
+Rabobank	Sun Nov 06 16:30:06 CET 2016	NOT_FOUND	De windows mobile app is niet meer beschikbaar??!! Graag direct herstellen!!!
+Rabobank	Sun Nov 06 10:19:48 CET 2016	NOT_FOUND	Slechte zaak van de Rabobank om geen melding te vermelden op de site dat er al dagen storingen zijn op de mobiele app. Niet alleen ik maar vele andere krijgen bij het pogen om in te loggen een popupmelding dat er geen verbinding gemaakt kan worden. Kijk je ervolgens op de site van de Rabobank is er niets op terug te vinden over een storing. Ga je naar allestoringen.nl dan zie je pas hoeveel klachten er zijn. Wij klanten betalen wel voor service maar ik merk daar dus niks van!!!
+Rabobank	Sun Nov 27 12:34:11 CET 2016	Chloe Tucker	RT @Rabobank: Op dit moment is er een storing binnen Rabo Internetbankieren en Mobielbankieren. Excuses voor het ongemak. http://t.co/Kg5mw�
+Rabobank	Wed Nov 23 11:17:01 CET 2016	Martijn van Oeffel	@Rabobank Sinds de overstap van mijn iPhone 6 naar iPhone 7 werkt de Apple Watch app niet meer? Net als de saldo al� 
+Rabobank	Wed Nov 23 10:51:39 CET 2016	Gerdien Bos-Flierman	Download  @Rabobank #Homecatcher app  en vind je droomhuis 
+Rabobank	Tue Oct 25 21:01:32 CEST 2016	Don Mascarpone �	Valse e-mail 'Rabobank' bevat persoonlijke aanhef - gezien in de #opgelicht app - 
+Rabobank	Wed Oct 26 10:26:49 CEST 2016	Linda	@Rabobank maar er is dus geen storing bekend? Ik ben in de weer met de app btw.
+Rabobank	Wed Oct 26 13:11:24 CEST 2016	Chantal H	@Rabobank De app gebruikt tegenwoordig Chinese tekens?? ? 
+Rabobank	Wed Oct 26 13:21:56 CEST 2016	Nona ChilL	@Rabobank dat is jammer! Voorheen kon je in de app selecteren en kopi�ren, zoals bijv betalingskenmerk of acceptgironummer. 1/2
+Rabobank	Wed Oct 26 15:20:51 CEST 2016	John Ponsteen	@Rabobank klopt. Constant houdt in. Ik kan de app een aantal (verschilt) keer gebruiken en opeens moet ik weer registreren.
+Rabobank	Wed Oct 26 21:25:58 CEST 2016	Daphne	@Rabobank Hi! als ik een rekening wil openen om mijn transacties te bekijken geeft de app aan: probeer het opnieuw.
+Rabobank	Wed Oct 26 21:34:13 CEST 2016	Daphne	@Rabobank heb de app opnieuw geinstalleerd! hij doet het weer.
+Rabobank	Thu Oct 27 00:19:26 CEST 2016	Martin Kollaard	@svdleer ja inderdaad bedacht ik me ook net. Net 20x moeten inloggen in Rabobank app omdat ik dingen uit factuur moest kopie�ren ?
 Rabobank	Thu Oct 27 03:04:21 CEST 2016	Nick Eilander	Beste @Rabobank. Kunnen jullie de bankieren app ook werkend maken met beveiligen met finger print ipv 5 cijferige code? #dtv
-Rabobank	Wed Aug 24 13:52:09 CEST 2016	Linda van Hoof	Ik pin altijd alles. Zo kan ik goed overzicht houden wat en waaraan ik mn geld heb uitgegeven. Lang leven de bankieren app!
-Rabobank	Thu Feb 25 18:34:07 CET 2016	Annegrit Schuurmans	Toen al "actief mobiel". Maar dan anders?.
+Rabobank	Thu Oct 27 11:49:51 CEST 2016	giny van ginkel	@Rabobank wanneer gaan jullie de app updaten? Loopt erg vaak vast bij overboeken.
+Rabobank	Thu Oct 27 18:06:10 CEST 2016	Niek Kouwenberg	@Rabobank Is er een storing bekend bij internetbankieren? Pas activeren lukt niet. Ook in de app werken functies zoals "pas vervangen" niet.
+Rabobank	Thu Oct 27 18:39:57 CEST 2016	Angelique van Eck	@Rabobank zijn mobiele nr kan onmogelijk bekend zijn. Is zijn werk telefoon. Alleen mijn nr is bekend! Gr Angelique
+Rabobank	Thu Oct 27 19:13:00 CEST 2016	Niek Kouwenberg	@Rabobank Denk toch dat het iets anders is. Ook de nieuwe pas van partner werkt niet. Foutcode 942. In app ook nog� 
+Rabobank	Fri Oct 28 06:52:22 CEST 2016	? Nour Alchazli	@Rabobank zien jullie er de mogelijkheid in om in de app 'subrekeningen' aan te maken. Om bijv. te sparen voor iets. ING heeft zoiets al.
+Rabobank	Fri Oct 28 14:42:26 CEST 2016	Ren�e Wittens	@Rabobank ik heb zojuist in de app gekozen voor 'later ondertekenen' en nu kan ik de opdracht nergens meer terugvinden. Help.
+Rabobank	Fri Oct 28 15:35:39 CEST 2016	Ren�e Wittens	@Rabobank ja, dat heb ik ingesteld. De betaling in kwestie kan ik dus niet meer via de app afronden?
+Rabobank	Fri Oct 28 17:01:55 CEST 2016	Bjarn Bronsveld 	@Rabobank Kan ook niet inloggen op internetbankieren, de app werkt wel.
+Rabobank	Sat Oct 29 11:14:11 CEST 2016	?	@Rabobank Ik kan de app niet meer gebruiken?
+Rabobank	Sat Oct 29 12:09:06 CEST 2016	Erwin Out	Wat een drama die wallet app van @rabobank. Ondersteuning populaire telefoons wordt steeds beloofd maar niet waargemaakt. #neegeengeduld
+Rabobank	Sat Oct 29 16:01:56 CEST 2016	Kristal Kwon	Rabobank mikt op volgend kwartaal met mobiel iDeal �
+Rabobank	Sat Oct 29 19:46:23 CEST 2016	Adri Geerts	RT @rabodommelstr: Parkeer jij al met MyOrder in #Geldrop? De voordeligste parkeer-app van NL! Meer info 
+Rabobank	Sat Oct 29 20:37:28 CEST 2016	Robert Nijssen	@Rabobank In september zou de app worden ge�pdatet met #TouchID. Waar blijft deze update?
+Rabobank	Sun Oct 30 02:48:39 CEST 2016	Raphael Janssen	@Rabobank �n uiterst handig dat jullie app n� storing heeft. "een aandeel in elkaar" m��r niet in het buitenland... #flut
+Rabobank	Sun Oct 30 19:05:54 CET 2016	Kristina Hill	Rabobank mikt op volgend kwartaal met mobiel iDeal �
+Rabobank	Mon Oct 31 00:49:43 CET 2016	Fred W	De app van @asnbank zegt dat ik geen internet heb, terwijl de 3G in USA prima is voor @Rabobank. Da's toch niet god van ASN? #USAokt16
+Rabobank	Mon Oct 31 10:15:30 CET 2016	Michiel vVlaardingen	RT @cascer1: @Rabobank waarom mag ik geen screenshots maken in de rabo bankieren App?
+Rabobank	Mon Oct 31 14:28:37 CET 2016	Ferdie Meijerman	@Rabobank wanneer kunnen de creditcard overzichten in de android app geopend worden? #onhandig
+Rabobank	Mon Oct 31 14:37:22 CET 2016	John Ponsteen	@Rabobank helaas, vanochtend werkte de app nog nu weer geen profiel ? zijn er nog andere opties?
+Rabobank	Mon Oct 31 15:37:21 CET 2016	Ferdie Meijerman	@Rabobank jawel, maar de pdf met het maandelijkse overzicht is niet te openen vanuit de app #verplichtopdepc
+Rabobank	Mon Oct 31 18:34:10 CET 2016	Martin Kollaard	@nielsiejjj92 er is mee te leven. Maar had liever een app gezien waar @Rabobank tijd in had gestoken. Is nu een side projectje lijkt wel.
+Rabobank	Mon Oct 31 22:26:29 CET 2016	Fred W	@Jet_030 @asnbank Met een kascheque naar de bank! Of overstappen @Rabobank! Hebben ook chatfunctie, als app opent. ;)
+Rabobank	Tue Nov 01 12:26:40 CET 2016	Wilbert Anijs	Per ongeluk overgegaan op nieuwe @Rabobank app op iOS: spijt! Twee weken geprobeerd; zou graag terugwillen naar de mooie eenvoudige oude...
+Rabobank	Tue Nov 01 12:53:07 CET 2016	Mark de Jager	Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
+Rabobank	Tue Nov 01 13:29:17 CET 2016	Wilbert Anijs	@Rabobank oke! En kan ik nog terug naar de oude? Of kan ik voor een prettig bruikbare app beter overstappen van bank?
+Rabobank	Tue Nov 01 13:36:27 CET 2016	Rick Evers	@Rabobank @Agent47NL Geldt ook voor mij.. Lees net dat er nog een app update noodzakelijk is, die nog niet beschikbaar is in de AppStore 1/2
+Rabobank	Tue Nov 01 15:34:21 CET 2016	Edwin Martens	Rabobank begint uitrol Touch ID in Rabo Bankieren-app 
+Rabobank	Tue Nov 01 16:13:54 CET 2016	Wilbert Anijs	@Rabobank een bank is voor mij een pinpas en een app (om saldo in te kunnen zien en geld over te kunnen maken). Dus ja
+Rabobank	Tue Nov 01 17:04:48 CET 2016	SeniorWeb	Rabobank begint met vingerafdruk voor bankier-app 
+Rabobank	Tue Nov 01 17:18:42 CET 2016	Wilbert Anijs	@Rabobank Ik wil eigenlijk gewoon terug naar "af"; die oude, heldere, simpele app :)
+Rabobank	Tue Nov 01 17:44:49 CET 2016	Ferdie Meijerman	@Rabobank dat werkt prima. Alleen in de rabo app krijg ik de melding dat de pdf niet geopend kan worden
+Rabobank	Tue Nov 01 18:56:53 CET 2016	Cor Pronk	RT @mjagertwit: Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
+Rabobank	Tue Nov 01 19:26:10 CET 2016	Tom Scholten ?	@iCulture werkt ook niet als je meerdere �profielen� hebt in de app aldus de foutmelding @Rabobank Beetje jammer
 Rabobank	Tue Nov 01 19:56:54 CET 2016	Ronald Vos	RT @RaboLvCM: Wist je al dat je je #creditcard kan vervangen via de Rabobank #Bankieren App? Meer weten: 
+Rabobank	Tue Nov 01 19:58:11 CET 2016	Eelko Jansen	@Rabobank waarom heeft jullie app toegang nodig tot mijn camera, foto's en bestanden? #needtoknow 
+Rabobank	Tue Nov 01 20:22:32 CET 2016	Rick Evers	@Rabobank Wordt touchid wederom uitgesteld? App update nog steeds niet beschikbaar :(
+Rabobank	Tue Nov 01 21:16:39 CET 2016	Fanny van Breugel	RT @rabodommelstr: Parkeer jij al met MyOrder in #Geldrop? De voordeligste parkeer-app van NL! Meer info 
+Rabobank	Tue Nov 01 21:53:37 CET 2016	Liesbeth de Wild	RT @mjagertwit: Binnenkort beschikbaar voor #Iphone #rabobankieren\nInloggen met vingerafdruk 
+Rabobank	Tue Nov 01 21:58:20 CET 2016	Martijn Vogel	@Rabobank Waarom willen jullie sinds de nieuwe #release van de bankieren app voor Android mijn #locatie weten? 
+Rabobank	Wed Nov 02 06:50:00 CET 2016	Chantal Coolsma	Djeeeezzzz eindelijk TouchID bij Rabobank Bankieren app.
+Rabobank	Wed Nov 02 07:04:33 CET 2016	Sander Kouwenberg	Vindt je droomhuis via de app HomeCatcher van #Rabobank  Eenvoudig in gebruik en relevante info. Een hypotheek binnen een week @RaboAlkmaar
+Rabobank	Wed Nov 02 07:08:19 CET 2016	Timo Boezeman	Eindelijk touch id in de app van @Rabobank!
+Rabobank	Wed Nov 02 07:13:21 CET 2016	Hans van der Stouw	Goed bezig @Rabobank! Die app van jullie wordt met iedere update toffer! #TouchID 
+Rabobank	Wed Nov 02 07:26:17 CET 2016	Bas van der Ploeg	De dag die je (niet zeker) wist dat zou komen is eindelijk hier�\n\nInloggen in de Rabobank-app kan nu met Touch ID! ? 
+Rabobank	Wed Nov 02 07:49:03 CET 2016	Jasper van Oeffel	@Rabobank was ik nou net helemaal gelukkig dat jullie Touch ID ondersteunen in de app krijg ik dit :( 
+Rabobank	Wed Nov 02 07:53:40 CET 2016	Dennis Slagers	@KoenvanH @Rabobank ik heb de functie in mijn app zitten, maar kan hem niet gebruiken v5.3 moet v5.4 hebben maar app store bied die niet aan
+Rabobank	Wed Nov 02 07:59:54 CET 2016	Cindy	Yes eindelijk de Rabobank app met je touch activeren ??
+Rabobank	Wed Nov 02 08:05:52 CET 2016	Gerald Commandeur	RT @s_kouwenberg: Vindt je droomhuis via de app HomeCatcher van #Rabobank  Eenvoudig in gebruik en relevante info. Een hypotheek binnen een�
+Rabobank	Wed Nov 02 08:27:15 CET 2016	Tobias	RT @basvanderploeg: De dag die je (niet zeker) wist dat zou komen is eindelijk hier�\n\nInloggen in de Rabobank-app kan nu met Touch ID! ? ht�
+Rabobank	Wed Nov 02 08:43:16 CET 2016	Lieven	@Reinier je vraagt je af hoe lang Rabobank die app nog vol gaat houden
+Rabobank	Wed Nov 02 08:45:37 CET 2016	HPB ICT	hpbict.nl - iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:45:57 CET 2016	NUtech	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: 
+Rabobank	Wed Nov 02 08:46:02 CET 2016	Gerrit	[NU Tech] iOS-app Rabobank laat gebruikers inloggen met vingerafdruk - 
+Rabobank	Wed Nov 02 08:46:05 CET 2016	Carlijn van den Berg	Al ervaring met de HomeCatcher app van #Rabobank? \nVind je droomhuis, bewaar je favorieten, bereken het bedrag dat je maximaal kunt lenen.
+Rabobank	Wed Nov 02 08:47:14 CET 2016	JRKaandorp�	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:48:07 CET 2016	TrendPros	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:48:31 CET 2016	nieuws	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:48:34 CET 2016	ICT Nieuws Index	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:49:27 CET 2016	NuTech	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:49:35 CET 2016	IT Jobs in NL	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:50:14 CET 2016	RSS Feed	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:50:17 CET 2016	NU tech	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:51:08 CET 2016	Jurriaan Schokker	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:53:36 CET 2016	Eric Nelstein	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:53:44 CET 2016	Rob van de Star	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad laat gebruike... 
+Rabobank	Wed Nov 02 08:53:46 CET 2016	Actueel ICT-nieuws	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:53:47 CET 2016	Young ICT	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad laat gebruike... 
+Rabobank	Wed Nov 02 08:53:48 CET 2016	ICT Community	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad laat gebruike... 
+Rabobank	Wed Nov 02 08:53:49 CET 2016	Delta Telecom Advies	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:54:29 CET 2016	TweetsTechs	--NUTech-- iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad la... 
+Rabobank	Wed Nov 02 08:54:31 CET 2016	NL Nieuws Tweets	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:54:33 CET 2016	VergelijkButler	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad laat gebruike... 
+Rabobank	Wed Nov 02 08:56:52 CET 2016	Kaarlo Hietamaki	RT @nlnieuwstweets: iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 08:58:06 CET 2016	Georges Van Hoye	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 09:03:14 CET 2016	Roddy Rietveldt	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en iPad�� 
+Rabobank	Wed Nov 02 09:08:13 CET 2016	JvdMeulen	Zo blij dat ik nog niet de nieuwe interface heb van de @Rabobank-app als ik het zo lees. Zodra ze mij verplichten over te stappen ben ik weg
+Rabobank	Wed Nov 02 09:10:04 CET 2016	Johnny Cohen	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 09:10:05 CET 2016	Intermediax	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 09:10:05 CET 2016	IT Nieuws 4U	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 09:10:06 CET 2016	NUtech	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 09:15:37 CET 2016	Feedjunkie NL	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: De Rabobank-app voor iPhone en� 
+Rabobank	Wed Nov 02 09:32:47 CET 2016	Zeta Services	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk - NU.nl: NU.nliOS-app Rabobank laat ... 
+Rabobank	Wed Nov 02 09:39:52 CET 2016	Appel Moes	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk - NU.nl 
+Rabobank	Wed Nov 02 09:41:09 CET 2016	App Nieuws	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk - NU.nl 
+Rabobank	Wed Nov 02 09:57:11 CET 2016	GSM Helpdesk NL	Rabobank bankieren app ondersteunt nu Touch ID vingerafdrukscanner 
+Rabobank	Wed Nov 02 10:07:34 CET 2016	NL Nieuws Tweets	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 10:10:13 CET 2016	GroeiZaken	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk (via @NUnl) #GroeiZaken  
+Rabobank	Wed Nov 02 10:12:28 CET 2016	Niels L.	@Rabobank hi, ik heb een andere simkaart en nu werkt Wallet niet meer! De mobiele pas is nog gelinkt ofzo. 
+Rabobank	Wed Nov 02 10:46:58 CET 2016	Martino van Vliet	Hey @Rabobank wat leuk #touchID werkt! Nu #ApplePay nog even fixen. Slaan jullie mooie slag voor mobiele betalingen #Rabobank
+Rabobank	Wed Nov 02 10:59:58 CET 2016	App Nieuws	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk - NU.nl 
+Rabobank	Wed Nov 02 11:03:08 CET 2016	Ruud Kok	#fail van de @Rabobank... omdat er meerdere accounts (zakelijk en priv�) in m'n app staan mag ik geen Touch ID gebr� 
+Rabobank	Wed Nov 02 11:06:01 CET 2016	security.nl	Rabobank-app ondersteunt inloggen via vingerafdruk #securitynl 
+Rabobank	Wed Nov 02 11:22:13 CET 2016	Bastiaan Vroegop	@Rabobank Nah. Overigens was de app wel de enige reden geweest als onze huisplannen niet zo liepen. Overweeg het al langer.
+Rabobank	Wed Nov 02 11:43:14 CET 2016	Dennis Slagers	@Rabobank ik zie dat nog geen kwartier geleden mijn app is bijgewerkt naar 5.4 en ik heb nu de touch-id kunnen instellen ..
+Rabobank	Wed Nov 02 11:55:12 CET 2016	Daisy de Laat	iOS-app #Rabobank laat gebruikers inloggen met vingerafdruk  
+Rabobank	Wed Nov 02 12:13:09 CET 2016	Rob van de Goor ?	@Rabobank ben ik het niet mee eens. Ik log in op 1 id en niet op 2 tegelijk. Dus de app zou moeten weten op welk profiel ik ingelogged ben.
+Rabobank	Wed Nov 02 12:15:58 CET 2016	Digital Captains	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk: 
+Rabobank	Wed Nov 02 12:28:16 CET 2016	Patrick Verbeij	Inloggen �n ondertekenen met je vingerafdruk nu beschikbaar voor @Rabobank mobielbankieren! ??#superhandig @RaboAenV 
+Rabobank	Wed Nov 02 12:38:17 CET 2016	One More Thing	Rabobank-app ondersteunt nu Touch ID 
+Rabobank	Wed Nov 02 12:38:48 CET 2016	iCloudi and More	#apple #tips: Rabobank-app ondersteunt nu Touch ID 
+Rabobank	Wed Nov 02 12:49:04 CET 2016	SeniorWeb Leek	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 12:49:40 CET 2016	Megan	@Rabobank hoe voeg ik een spaarrekening toe aan mn Bankieren-app?
+Rabobank	Wed Nov 02 12:50:15 CET 2016	Appleweetjes	Rabobank-app ondersteunt nu Touch ID - onemorething.nl - 
+Rabobank	Wed Nov 02 12:51:02 CET 2016	Niels Gaastra	Die @rabobank app blijft tegenvallen bij elke update... Graag een oplossing voor Touch ID! 
+Rabobank	Wed Nov 02 12:54:01 CET 2016	Feedjunkie NL	Rabobank-app ondersteunt nu Touch ID: Rabobank heeft een langstaande belofte ingelost. De� 
+Rabobank	Wed Nov 02 12:54:08 CET 2016	Tweet Meldingen	[OneMoreThing] Rabobank-app ondersteunt nu Touch ID 
+Rabobank	Wed Nov 02 12:56:15 CET 2016	Jenny	@Rabobank nee helaas, krijg n melding voor registratie maar gooit me er dan af als ik dit aanklik. Mss de app opnieuw installeren?
+Rabobank	Wed Nov 02 13:02:19 CET 2016	Hans de Gruijter	@rijn Ik bankier bij @Rabobank; daar kun je zelf via hun app je pas aan of uit zetten voor andere werelddelen. Ook gemakkelijk.
+Rabobank	Wed Nov 02 13:02:27 CET 2016	Economie	Rabobank-app ondersteunt nu Touch ID 
+Rabobank	Wed Nov 02 13:13:59 CET 2016	Bastiaan Vroegop	@Rabobank Nieuwe, native app ontwikkelen die qua functionaliteit niet aanvoelt als iets uit 2010.
+Rabobank	Wed Nov 02 13:38:34 CET 2016	Ruud Kok	@Rabobank dan moet je toch in de app kunnen instellen voor welk account de vingerafdruk geldt.. en dan eventueel de andere accounts met code
+Rabobank	Wed Nov 02 13:51:56 CET 2016	Coen Remmelts	@ABNAMRO de Rabobank heeft TouchID in de app toegevoegd. Wanneer volgen jullie eens? #overstappen?
+Rabobank	Wed Nov 02 13:55:03 CET 2016	Megan	@Rabobank bestaande spaarrekening toevoegen! Maar ik heb via de chat in de app al vernomen dat ik die rekening nog niet kan zien omdat (1/2)
+Rabobank	Wed Nov 02 14:04:46 CET 2016	Simon Hulsman	Meteen aangezet, werkt perfect @rabobank\niOS-app Rabobank laat gebruikers inloggen met vingerafdruk 
+Rabobank	Wed Nov 02 14:06:44 CET 2016	Coen Remmelts	@Rabobank @RabobankSalland werkt TouchID ook voor zakelijke klanten? Is dat dezelfde app als particulier bankieren? #twijfels #overstap
+Rabobank	Wed Nov 02 14:08:20 CET 2016	Will.e.m	Eindelijk Touch-id in de @Rabobank app :)
+Rabobank	Wed Nov 02 14:32:26 CET 2016	Marco Borger	RT @onemorething: Rabobank-app ondersteunt nu Touch ID 
+Rabobank	Wed Nov 02 14:46:24 CET 2016	Jasper van Oeffel	@Rabobank maar hebben jullie er dan ook aan gedacht dat 1 gebruiker meerdere profielen kan hebben? Ik heb twee profielen in de app namelijk
+Rabobank	Wed Nov 02 14:54:09 CET 2016	Franklin Velthuizen	@Rabobank Het punt is dat je iets meer over de UX moet nadenken. En daar schiet het in de ontwikkeling van de app vaak tekort.
+Rabobank	Wed Nov 02 15:19:42 CET 2016	Van der Wal Services	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk \n
+Rabobank	Wed Nov 02 15:26:39 CET 2016	Cor van der Wal	iOS-app Rabobank laat gebruikers inloggen met vingerafdruk \n
+Rabobank	Wed Nov 02 15:41:02 CET 2016	Leon Vorstenbosch	RT @Willem5611: Eindelijk Touch-id in de @Rabobank app :)
+Rabobank	Wed Nov 02 15:45:20 CET 2016	Rob van de Goor ?	@Rabobank dan is dat een app issue en niet een touch-id issue. Dus de dat is niet doordacht door de Rabobank.
+Rabobank	Wed Nov 02 15:45:59 CET 2016	Leon Vorstenbosch	@tinoruijs @Willem5611 @Rabobank de app kunnen openen met je vingerafdruk en niet met een code.
+Rabobank	Wed Nov 02 16:12:48 CET 2016	Publy	Bankieren met Rabobank app kan nu ook met vingerafdruk beveiliging 
+Rabobank	Wed Nov 02 16:23:55 CET 2016	Oude Dibbes	@Rabobank Hallo, app #5.4 met touchId? Moet hiervoor touchId default ingeschakeld zijn om te gebruiken. Binnen de app gaat het niet?
+Rabobank	Thu Nov 03 22:55:41 CET 2016	Tom Sanders	@Rabobank Ik wil graag de mobiele app gebruiken zonder toegang tot telefoon te geven. Jullie zijn een bank, niet mijn secretaresse.
+Rabobank	Wed Nov 02 03:06:00 CET 2016	APK-Dl	Rabo Bankieren  Released!\n
+Rabobank	Wed Nov 02 08:42:34 CET 2016	Tom Zwaan	Rabobank begint uitrol Touch ID in Rabo Bankieren-app 
+Rabobank	Wed Nov 02 09:03:18 CET 2016	E??? K???s???	Heb jij een Iphone of Ipad en de Rabo Bankieren App?\nInloggen met vingerafdruk is vanaf nu mogelijk. 
+Rabobank	Wed Nov 02 11:06:36 CET 2016	0pd@m ?	#Rabobank-app ondersteunt inloggen via vingerafdruk: Rabobank heeft een nieuwe versie van de Rabo Bankieren App� 
+Rabobank	Wed Nov 02 12:01:24 CET 2016	Boot Error	Rabobank laat je inloggen met Touch ID in Rabo Bankieren-app 
+Rabobank	Wed Nov 02 13:38:09 CET 2016	Ricardo Blok	Rabobank laat je inloggen met Touch ID in Rabo Bankieren-app 
+Rabobank	Wed Nov 02 13:40:05 CET 2016	iPhoned.nl	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
+Rabobank	Wed Nov 02 13:54:22 CET 2016	WazziPhone	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app 
+Rabobank	Wed Nov 02 14:31:07 CET 2016	Petra Vlaanderen	Inloggen met vingerafdruk in Rabo bankieren app is nu mogelijk op iPhone en iPad. 
+Rabobank	Wed Nov 02 14:34:15 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
+Rabobank	Wed Nov 02 14:48:59 CET 2016	Dennis	RT @iphoned: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
+Rabobank	Wed Nov 02 15:14:29 CET 2016	Jordibeeksma	Rabo app geupdate. Saldo stemt nog steeds niet naar tevredenheid. Wacht op nieuwe update. @Rabobank
+Rabobank	Wed Nov 02 15:22:32 CET 2016	Bj�rn Maassen	RT @iphoned: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app ? 
+Rabobank	Wed Nov 02 15:50:05 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
+Rabobank	Wed Nov 02 17:11:09 CET 2016	Appel Moes	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - iPhoned.nl 
+Rabobank	Wed Nov 02 17:13:00 CET 2016	Carlijn van den Berg	Nieuwe mogelijkheden in de Rabo Bankieren App, waaronder inloggen met vingerafdruk. 
+Rabobank	Wed Nov 02 18:42:14 CET 2016	Sander Kouwenberg	RT @CarlijnSara: Nieuwe mogelijkheden in de Rabo Bankieren App, waaronder inloggen met vingerafdruk. 
+Rabobank	Wed Nov 02 20:15:14 CET 2016	Wouter Jorritsma	@Rabobank toch tijd voor een native app ipv halve webapp Rabo vrienden, zou de functionaliteit en gebruikerservaring erg ten goede komen.
+Rabobank	Wed Nov 02 20:38:14 CET 2016	Mike van de Weijer	@Rabobank Nee, alle andere features die er niet in zitten wel. Investeerde Rabo maar net zoveel tijd en geld in de app als in de liborfraude
+Rabobank	Thu Nov 03 12:13:05 CET 2016	Oogvereniging	Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
+Rabobank	Thu Nov 03 14:56:35 CET 2016	Vrouwenapenstaartje	RT @SeniorWebNL: Rabobank begint met vingerafdruk voor bankier-app 
+Rabobank	Thu Nov 03 18:24:03 CET 2016	Dennis Dondergoor	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
+Rabobank	Thu Nov 03 18:31:11 CET 2016	Laura Hoogstraten	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
+Rabobank	Thu Nov 03 21:32:32 CET 2016	????	Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 21:40:30 CET 2016	Koen Boomsma	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 21:43:37 CET 2016	Johan de Jonge	@Rabobank. Bij ING 2 rekeningen. Kan met vingerafdruk bankieren. Bij Rabo 2 rekeningen, kan vingerafdruk niet gebruiken. Dus matige app wmb
+Rabobank	Thu Nov 03 21:54:34 CET 2016	Cahit Ilkin	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 21:55:20 CET 2016	Martijn Rol	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 21:56:48 CET 2016	Kelly Huisman	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 22:31:31 CET 2016	Erik Zigterman	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 22:43:58 CET 2016	Jan Heusinkveld	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 22:48:52 CET 2016	Sjoerd Scholte	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Thu Nov 03 23:28:19 CET 2016	Johan Heerema	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Fri Nov 04 07:22:32 CET 2016	Richard Waninge	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Fri Nov 04 09:39:15 CET 2016	Tom Sanders	@Rabobank als ik wil bellen, gebruik ik de 'telefoon' op mijn telefoon. Ik wil niet dat de rabo app toegang heeft tot die functionaliteit.
+Rabobank	Fri Nov 04 12:26:18 CET 2016	Stad&MiddenGroningen	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Fri Nov 04 18:16:24 CET 2016	Sven de Jong	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Fri Nov 04 19:01:08 CET 2016	Gerard van Rijswijk	RT @Oogvereniging: Rabo Bankieren App @Rabobank na update van gisteren helaas nog steeds niet goed toegankelijk: 
+Rabobank	Fri Nov 04 23:55:14 CET 2016	Jos Eringfeld	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Sat Nov 05 08:47:40 CET 2016	Sander Vroom	RT @korz: Rabobank voegt Touch ID-ondersteuning toe aan Rabo Bankieren-app - 
+Rabobank	Sat Nov 05 09:35:07 CET 2016	Gerben	@Rabobank GM! Sinds laatste update doet Rabo Bank. app raar: Op de voorpagina is saldo onleesbaar. Het getal staat� 
+Rabobank	Sat Nov 05 16:36:30 CET 2016	Kevin Hegeman	@Rabobank Waarom is de Rabo Bankieren app niet te downloaden voor windows 10 mobile?
+Rabobank	Sat Nov 05 20:01:44 CET 2016	Michael Boumann	@Rabobank @shadyxv11 zelfde probleem. Rabo app is op Windows 10 Mobile nergens in de Store meer te vinden.
+Rabobank	Sun Nov 06 07:54:00 CET 2016	Gerard Wissing	RT @boumannm: @Rabobank @shadyxv11 zelfde probleem. Rabo app is op Windows 10 Mobile nergens in de Store meer te vinden.
+Rabobank	Mon Nov 14 11:52:46 CET 2016	Johan de Goffau	@RabobankWNB ligt het aan mij of is de Rabo app uit de Windows Store verdwenen? #dtv
+Rabobank	Tue Nov 15 15:51:03 CET 2016	Arie Baars	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store: De Rabo Bankieren-app kan weer vanuit de Windows Store� 
+Rabobank	Tue Nov 15 15:54:08 CET 2016	NL Tech	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store: De Rabo Bankieren-app kan weer vanuit� 
+Rabobank	Tue Nov 15 16:16:27 CET 2016	GSM nieuws	Rabobank-app is weer beschikbaar in Windows 10 Mobile-store - De Rabo Bankieren-app kan weer vanuit de Windows ... 
+Rabobank	Tue Nov 15 23:15:13 CET 2016	Richard van Maurik	Met de HomeCatcher App van Rabobank krijg je snel en eenvoudig inzicht in\nde koopkans van je droomhuis. Download:� 
+Rabobank	Wed Nov 16 19:08:23 CET 2016	? Nour Alchazli	@Rabobank overigens staat nergens in de app dat dit 'Rabo Alerts' heet.
+Rabobank	Sat Nov 12 12:32:23 CET 2016	Arie van Loon	@Rabobank hebben jullie al een termijn waarop de Windows 10 Mobile app weer in de store staat?
+Rabobank	Sat Nov 12 14:23:21 CET 2016	Elco van der Meer	@Rabobank Waarom kan ik de Rabo Bankieren-app niet downloaden uit de Windows 10 (Mobile)-store, zoals voorheen?
+Rabobank	Sat Nov 12 17:30:59 CET 2016	Marie-Jos� Segers	Waarom is er geen Rabobank mobiel bankieren app meer voor Windows 10?
+Rabobank	Sat Nov 12 17:47:28 CET 2016	kindermobieltje	RT @mj_segers: Waarom is er geen Rabobank mobiel bankieren app meer voor Windows 10?
+Rabobank	Sat Nov 12 20:54:42 CET 2016	Sven Belonje	Ugh kan nog steeds niet mobiel pinnen bij @Rabobank
+Rabobank	Sat Nov 12 21:38:17 CET 2016	Ad Lohman	#rabobank.  Microsoft telefoon weg Rabo Bankieren app
+Rabobank	Sat Nov 12 21:41:37 CET 2016	Ad Lohman	ING app, ABN Amro, en nog enkele in de Microsoft app store maar #Rabobank weg. Geen app.
+Rabobank	Sat Nov 12 22:32:28 CET 2016	Marijn	Hallo @KPNwebcare Ik wil graag met mijn mobiel betalen via @Rabobank Met de NFC Kan dat eigenlijk moet je daar speciale simkaart 1/2
+Rabobank	Sat Nov 12 22:40:53 CET 2016	Ad Lohman	@Rabobank Waar is mijn bankieren app op mijn Windows Phone?
+Rabobank	Sat Nov 12 22:47:31 CET 2016	kindermobieltje	RT @marijn2009: Hallo @KPNwebcare Ik wil graag met mijn mobiel betalen via @Rabobank Met de NFC Kan dat eigenlijk moet je daar speciale sim�
+Rabobank	Sun Nov 13 02:31:46 CET 2016	Bram Molenaar	Weer onderhoud aan mobiel bankieren zodat ik niet eens bij mijn eigen geld kan. Doei @Rabobank!
+Rabobank	Sun Nov 13 02:47:18 CET 2016	kindermobieltje	RT @brammolenaaar: Weer onderhoud aan mobiel bankieren zodat ik niet eens bij mijn eigen geld kan. Doei @Rabobank!
+Rabobank	Sun Nov 13 09:42:33 CET 2016	Ad Lohman	#Rabobank Bankieren. Hoe is het mogelijk  dat een  app zomaar uit de Windows-app store verdwijnt  (@Rabobank) .
+Rabobank	Sun Nov 13 14:15:31 CET 2016	Shirley de Jong	@Rabobank Geen Samsung meuk en ik zit ook op het mobiele netwerk van @Ziggo.
+Rabobank	Sun Nov 13 21:57:45 CET 2016	Eva	@Rabobank waar is de Windows Phone app gebleven? Vriend van me kan 'm niet meer vinden in de store!
+Rabobank	Mon Nov 14 10:23:11 CET 2016	? Robert Brugman	@asnbank Hoe moeilijk kan het zijn. Julie zijn ongeveer de laatste bank die dit niet ondersteunt..... zelfs de @rabobank app heeft het...
+Rabobank	Mon Nov 14 11:43:08 CET 2016	Geek Trading Systems	@Rabobank dit is een serieuze vraag hoor. Ik kijk uit naar uw antwoord. \n #RaboApp #mobielbankieren #privacy
+Rabobank	Mon Nov 14 12:49:35 CET 2016	Job l'Amie	Waarom moeten bedragen onder �200 vanuit de app sinds de vingerafdruk update weer ondertekend worden @Rabobank? Zeer onhandig!
+Rabobank	Mon Nov 14 13:11:16 CET 2016	Jeroen Oosterhof ?	@Warhamstr @Rabobank Eerst nog voordeel van de twijfel. Al ben ik bang dat het aan zekerheid grenzende waarschijnlijkheid exit #wp10 app is
+Rabobank	Mon Nov 14 13:35:55 CET 2016	Geek Trading Systems	@Rabobank Ik heb ook een #App van mijn #broker (grote bekende) op #mobiel. Die hoeft geen onnodige toegang en werkt perfect. (2/3) #privacy
+Rabobank	Mon Nov 14 13:51:09 CET 2016	Geek Trading Systems	@Rabobank als jullie #privacy net zo serieus nemen als jullie "#humor" wordt het nog wat. Toch bedankt. Voorlopig installeer ik de app niet.
+Rabobank	Mon Nov 14 14:44:31 CET 2016	Robert	Hallo @Rabobank. Ik vind het wel vreemd dat jullie bankieren-app ineens in het Engels is. Op zich geen probleem, maar gewoon: klopt dit wel?
+Rabobank	Mon Nov 14 16:53:26 CET 2016	Johan de Goffau	Slecht dat @Rabobank app niet beschikbaar is op Windows Phone. Nu weer steeds inloggen op de site... #onhandig #terugindetijd
+Rabobank	Mon Nov 14 16:57:22 CET 2016	Ad Lohman	#rabobank . De Rabobank "onderzoekt" hoe het kan dat hun bankieren app uit de Windowsstore is verdwenen. Onzin.
+Rabobank	Mon Nov 14 16:58:46 CET 2016	Ad Lohman	#rabobank . Ik geloof er niks van. @Rabobank. Ze hebben zelf hun app verwijderd.
+Rabobank	Mon Nov 14 17:17:49 CET 2016	monica smulders	Supergave app #innovatie #Rabobank #homecatcher voor iedereen die zijn huis wil (ver) kopen! Download nu:� 
+Rabobank	Fri Nov 18 07:51:58 CET 2016	Floris	@Rabobank de laatste update van de app zorgt ervoor dat alles 2 keer aangetikt moet worden voor jet reageert op een iPhone 6S, zeer traag
+Rabobank	Fri Nov 18 11:39:49 CET 2016	Jazzy X	@Rabobank Het zou fijn zijn als je bij 'EXTRA inzicht' in Rabobankieren kan zien wat het gemiddelde is van je uitgaven zoals boodschappen.
+Rabobank	Fri Nov 18 15:35:22 CET 2016	Hachy	@Rabobank Jij bent wel hardnekkig :) Ik wil graag een native app met alle functies zoals de ING app. Maar dan van de Rabo.
+Rabobank	Fri Nov 18 16:04:00 CET 2016	Hachy	@Rabobank Laten we eens beginnen met een Native en responsive iOS app die er strak uitziet. Dus geen web-meuk. Fancy features kan later wel.
+Rabobank	Fri Nov 18 16:19:54 CET 2016	Hachy	@Rabobank Dank voor je eerlijkheid. Oude app werkte ook goed op GPRS / slecht bereik. De nieuwe niet. Daar moet je beginnen met ontwikkelen.
+Rabobank	Fri Nov 18 16:21:36 CET 2016	Hachy	@Rabobank Zolang de web-app blijft, blijft de app slecht, al doen jullie goed je best, het is gewoon een foute architectuur keuze.
+Rabobank	Fri Nov 18 16:44:50 CET 2016	Hachy	@Rabobank 'Niet direct' is een understatement. De app is ruim een jaar geleden ge�ntroduceerd. Ik ben zeker niet de enige die dit wenst.
+Rabobank	Fri Nov 18 18:02:55 CET 2016	Maarten de Zwart	@Rabobank ik wilde net een iDEAL betaling van Safari met de app doe en moest een RaboScanner zoeken?! Terwijl TouchID is ingesteld. Foutje?
+Rabobank	Fri Nov 18 18:35:27 CET 2016	Dominic Huls	@Rabobank ik ontvang al een tijd geen betaal alerts meer. App verwijderen/clean install heeft geen zin. Nu krijg ik� 
+Rabobank	Fri Nov 18 21:24:05 CET 2016	Dominic Huls	@Rabobank ja maar ik wil alleen notificaties via de app en niet per mail/sms
+Rabobank	Sat Nov 19 10:39:11 CET 2016	Tom	Vanmorgen eindelijk de nieuwe @Rabobank app durven installeren. Eindelijk Touch id. Valt me niet tegen nu.
+Rabobank	Sat Nov 19 19:26:36 CET 2016	Niels de Jong	Hey @Rabobank, dit heb ik al tig keer gedaan maar ik krijg geen bericht. Btw super wazige melding; App wordt bijgew� 
+Rabobank	Sun Nov 20 07:26:09 CET 2016	Jevan Nanninga	@Rabobank wanneer doet je Rabobank App het weer? #rabobank
+Rabobank	Sun Nov 20 11:25:35 CET 2016	Carlo van Haaren	Download de Rabobank Homecatcher app en vind je droomhuis.  
+Rabobank	Sun Nov 20 21:21:46 CET 2016	Tom	@rabobank Wanneer is het mogelijk om betaalverzoeken via de Android app aan te maken en te delen via bijvoorbeeld whatsapp?
+Rabobank	Mon Nov 21 09:05:18 CET 2016	Hindrik Bruinsma ?	Hi @Rabobank, ik wilde afrekenen bij @ZalandoNL. Maar doordat ze iDEAL in te app hebben geplaatst, kan ik niet de Bankieren App 1/3
+Rabobank	Mon Nov 21 09:57:59 CET 2016	Hindrik Bruinsma ?	@Rabobank De @ZalandoNL app laadt de iDEAL pagina in de App. Hierdoor kan ik niet zien of ik �cht met de Rabobank betaal. Dit is 1/2
+Rabobank	Mon Nov 21 09:58:21 CET 2016	Hindrik Bruinsma ?	@Rabobank mogelijk gevaarlijk en mag niet volgens iDEAL. Ook betalen met de Rabobank App werkt daardoor niet. 2/2
+Rabobank	Mon Nov 21 10:39:35 CET 2016	Tweet-ie	@Rabobank onderhoud de app doer het niet?
+Rabobank	Mon Nov 21 11:18:52 CET 2016	BramRutgers	Heeft de #Rabobank app #storing Ik kan niet meer inloggen Ik krijg een wit scherm voor me
+Rabobank	Mon Nov 21 12:03:17 CET 2016	Patrick	@Rabobank  ligt de internet bankieren app plat of zo? Kan niet inloggen namelijk
+Rabobank	Mon Nov 21 12:28:00 CET 2016	Rob van de Goor ?	@Rabobank waarom gebeurd mij dat altijd wanneer ik de app nodig echt heb? 
+Rabobank	Mon Nov 21 12:46:16 CET 2016	BramRutgers	Gelukkig de #Rabobank app doet het weer ???
+Rabobank	Mon Nov 21 14:00:03 CET 2016	M! Back2thefuture	Uit ons 2010-archief: Rabobank lanceert iPad app Rabo Cycling door @marcoderksen 
+Rabobank	Tue Nov 22 11:44:02 CET 2016	Liam Vos	@Rabobank Werken de saldo en betaalmeldingen in de app nog? Krijg geen berichten meer.
+Rabobank	Tue Nov 22 11:54:44 CET 2016	Liam Vos	@Rabobank Deze meldingen. Staan in de normale bankieren app. 
+Rabobank	Tue Nov 22 14:36:34 CET 2016	Martin Kollaard	@rabobank Kunnen jullie geen raboscanner functionaliteit in jullie app bouwen? Dan kan je iDeal transacties op desktop afronden op phone :D
+Rabobank	Tue Nov 22 15:35:16 CET 2016	Jessica	@Rabobank Ik heb een Telfort NCF-sim, maar na het registreren van mn toestel geeft hij een foutmelding bij het aanmaken van een mobiele pas
+Rabobank	Tue Nov 22 20:13:36 CET 2016	jan willem	@Rabobank Waarom kan ik de iPad / iPhone app mijn hypotheek gegevens niet zien?
+Rabobank	Wed Nov 23 08:44:42 CET 2016	Dirk Vanhorenbeeck	@Rabobank pas kwijt geraakt en het is onmogelijk om te bellen. De app doet het niet want ik heb geen apparaatje mee.
